@@ -3,6 +3,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { Inter } from "next/font/google";
 import { cn } from "@/lib/utils";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 import type { Metadata } from "next";
 import FloatingWhatsApp from "@/components/FloatingWhatsApp";
 
@@ -22,6 +23,7 @@ export default function RootLayout({
         <main>{children}</main>
         <Footer />
         <FloatingWhatsApp />
+        <GoogleAnalytics />
       </body>
     </html>
   );
