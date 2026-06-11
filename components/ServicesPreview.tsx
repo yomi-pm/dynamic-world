@@ -3,36 +3,37 @@ import Section from "./Section";
 import SectionHeading from "./SectionHeading";
 
 import { Card } from "@/components/ui/card";
+import Link from "next/link";
 
-import { BarChart3, HeartPulse, LineChart, GraduationCap } from "lucide-react";
+import { BarChart3, Dna, FileText, GraduationCap } from "lucide-react";
 
 export default function ServicesPreview() {
   const services = [
     {
-      title: "Research Analytics",
+      title: "Data Analysis",
       description:
-        "Transform raw research data into actionable insights through statistical analysis, interpretation, and reporting.",
+        "Statistical analysis, interpretation, reporting and visualization support for academic and professional research projects.",
       icon: BarChart3,
     },
 
     {
-      title: "Public Health Analytics",
+      title: "Bioinformatics Support",
       description:
-        "Survey analysis, monitoring & evaluation reporting, and public health intelligence for healthcare research projects.",
-      icon: HeartPulse,
+        "Genomics, transcriptomics, sequence analysis and bioinformatics workflows for life science researchers.",
+      icon: Dna,
     },
 
     {
-      title: "Data Visualization",
+      title: "Research Methodology",
       description:
-        "Interactive dashboards and publication-ready visualizations using Power BI and modern reporting tools.",
-      icon: LineChart,
+        "Guidance on research design, sampling techniques, instrument development and study implementation.",
+      icon: FileText,
     },
 
     {
-      title: "Dissertation Support",
+      title: "Academic Research Support",
       description:
-        "End-to-end academic research support including proposal development, data analysis, and interpretation.",
+        "Proposal development, dissertation support, data interpretation and publication readiness assistance.",
       icon: GraduationCap,
     },
   ];
@@ -42,10 +43,10 @@ export default function ServicesPreview() {
       <Container>
         <SectionHeading
           title="Expert Research Support"
-          subtitle="Work with our team for support with research design, methodology, data analysis, bioinformatics, academic writing and publication support."
+          subtitle="Work with our team for support with research methodology, data analysis, bioinformatics, academic writing and publication support."
         />
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           {services.map((service) => {
             const Icon = service.icon;
 
@@ -53,27 +54,77 @@ export default function ServicesPreview() {
               <Card
                 key={service.title}
                 className="
-                  p-8
+                  p-6
+                  md:p-8
                   rounded-3xl
                   border-slate-200
-                  hover:shadow-lg
                   transition-all
                   duration-300
+                  hover:shadow-xl
                   hover:-translate-y-1
                 "
               >
-                <div className="w-12 h-12 rounded-2xl bg-slate-100 flex items-center justify-center">
+                <div
+                  className="
+                  w-12
+                  h-12
+                  rounded-2xl
+                  bg-slate-100
+                  flex
+                  items-center
+                  justify-center
+                  "
+                >
                   <Icon className="w-6 h-6 text-slate-700" />
                 </div>
 
-                <h3 className="mt-6 text-xl font-semibold">{service.title}</h3>
+                <h3
+                  className="
+                  mt-6
+                  text-lg
+                  md:text-xl
+                  font-semibold
+                  tracking-tight
+                  "
+                >
+                  {service.title}
+                </h3>
 
-                <p className="mt-4 text-slate-600 leading-7">
+                <p
+                  className="
+                  mt-4
+                  text-slate-600
+                  leading-7
+                  text-sm
+                  md:text-base
+                  "
+                >
                   {service.description}
                 </p>
               </Card>
             );
           })}
+        </div>
+
+        <div className="mt-12 text-center">
+          <Link
+            href="/services"
+            className="
+              inline-flex
+              items-center
+              justify-center
+              px-6
+              py-3
+              rounded-xl
+              bg-slate-900
+              text-white
+              font-medium
+              hover:bg-slate-800
+              transition-colors
+            "
+          >
+            View All Services
+          </Link>
         </div>
       </Container>
     </Section>
