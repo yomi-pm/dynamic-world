@@ -6,6 +6,7 @@ import { cn } from "@/lib/utils";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import type { Metadata } from "next";
 import FloatingWhatsApp from "@/components/FloatingWhatsApp";
+import MicrosoftClarity from "@/components/MicrosoftClarity";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -24,6 +25,7 @@ export default function RootLayout({
         <Footer />
         <FloatingWhatsApp />
         <GoogleAnalytics />
+        <MicrosoftClarity />
       </body>
     </html>
   );

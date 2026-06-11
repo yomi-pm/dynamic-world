@@ -56,7 +56,7 @@ export default function Footer() {
             <h4 className="font-semibold">Contact</h4>
 
             <div className="mt-4 space-y-3 text-slate-600">
-              <p>hello@researchdesk.africa</p>
+              <p>hello@researchdesk.ng</p>
 
               <a
                 href="https://wa.me/234XXXXXXXXXX"
