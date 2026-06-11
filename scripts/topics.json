@@ -1,0 +1,530 @@
+[
+  {
+    "title": "Determinants of Antenatal Care Utilization Among Pregnant Women in Rural Northern Nigeria",
+    "category": "public-health",
+    "researchArea": "Maternal Health",
+    "background": "Maternal mortality remains a major public health challenge in Nigeria, particularly in rural northern regions where access to quality maternal healthcare services is limited.",
+    "objectives": [
+      "Assess antenatal care utilization.",
+      "Identify factors influencing attendance.",
+      "Examine barriers to access.",
+      "Recommend interventions."
+    ],
+    "researchQuestions": [
+      "What is the level of antenatal care utilization?",
+      "Which factors influence attendance?",
+      "What barriers affect access?",
+      "How can utilization be improved?"
+    ],
+    "methodology": "Cross-sectional community survey.",
+    "keywords": [
+      "maternal health",
+      "antenatal care",
+      "pregnancy",
+      "healthcare access",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Prevalence and Risk Factors of Postpartum Depression Among Mothers Attending Primary Healthcare Centers in Lagos State",
+    "category": "public-health",
+    "researchArea": "Maternal Health",
+    "background": "Postpartum depression is underdiagnosed in Nigeria despite its impact on maternal and child wellbeing.",
+    "objectives": [
+      "Determine prevalence.",
+      "Identify risk factors.",
+      "Assess awareness.",
+      "Recommend screening strategies."
+    ],
+    "researchQuestions": [
+      "What is the prevalence of postpartum depression?",
+      "What are the risk factors?",
+      "What is the awareness level?",
+      "How can screening be improved?"
+    ],
+    "methodology": "Facility-based cross-sectional study.",
+    "keywords": [
+      "postpartum depression",
+      "maternal mental health",
+      "women",
+      "primary healthcare",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Factors Associated with Childhood Stunting Among Children Under Five in Nigeria",
+    "category": "public-health",
+    "researchArea": "Child Health",
+    "background": "Childhood stunting remains a major public health concern affecting growth and development.",
+    "objectives": [
+      "Estimate prevalence.",
+      "Identify determinants.",
+      "Assess feeding practices.",
+      "Recommend interventions."
+    ],
+    "researchQuestions": [
+      "What is the prevalence of stunting?",
+      "Which factors contribute to stunting?",
+      "How do feeding practices influence outcomes?",
+      "What interventions are effective?"
+    ],
+    "methodology": "Cross-sectional survey with anthropometric measurements.",
+    "keywords": ["stunting", "child health", "nutrition", "growth", "Nigeria"]
+  },
+  {
+    "title": "Assessment of Exclusive Breastfeeding Practices Among Nursing Mothers in Urban Nigeria",
+    "category": "public-health",
+    "researchArea": "Nutrition",
+    "background": "Exclusive breastfeeding remains below recommended levels despite its health benefits.",
+    "objectives": [
+      "Determine prevalence.",
+      "Identify influencing factors.",
+      "Assess maternal knowledge.",
+      "Recommend promotion strategies."
+    ],
+    "researchQuestions": [
+      "What proportion of mothers practice exclusive breastfeeding?",
+      "What factors influence breastfeeding practices?",
+      "What is the level of knowledge?",
+      "How can uptake be improved?"
+    ],
+    "methodology": "Descriptive cross-sectional study.",
+    "keywords": [
+      "exclusive breastfeeding",
+      "nutrition",
+      "child health",
+      "maternal health",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Prevalence and Predictors of Childhood Immunization Defaulting in Primary Healthcare Facilities",
+    "category": "public-health",
+    "researchArea": "Vaccination",
+    "background": "Immunization defaulting contributes to outbreaks of vaccine-preventable diseases.",
+    "objectives": [
+      "Determine prevalence.",
+      "Identify predictors.",
+      "Assess caregiver knowledge.",
+      "Recommend interventions."
+    ],
+    "researchQuestions": [
+      "How common is immunization defaulting?",
+      "What factors contribute to defaulting?",
+      "How knowledgeable are caregivers?",
+      "How can completion rates improve?"
+    ],
+    "methodology": "Facility-based cross-sectional study.",
+    "keywords": [
+      "vaccination",
+      "immunization",
+      "children",
+      "public health",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Epidemiology of Hypertension Among Adults in Semi-Urban Communities of South-West Nigeria",
+    "category": "public-health",
+    "researchArea": "Epidemiology",
+    "background": "Hypertension is a growing noncommunicable disease burden in Nigeria.",
+    "objectives": [
+      "Estimate prevalence.",
+      "Identify risk factors.",
+      "Assess awareness.",
+      "Recommend prevention measures."
+    ],
+    "researchQuestions": [
+      "What is the prevalence of hypertension?",
+      "Which factors are associated with hypertension?",
+      "What is the awareness level?",
+      "How can prevention be strengthened?"
+    ],
+    "methodology": "Community-based epidemiological survey.",
+    "keywords": ["hypertension", "epidemiology", "NCDs", "adults", "Nigeria"]
+  },
+  {
+    "title": "Knowledge, Attitudes and Practices Regarding Malaria Prevention Among Households in Rural Nigeria",
+    "category": "public-health",
+    "researchArea": "Health Promotion",
+    "background": "Malaria remains endemic despite prevention campaigns.",
+    "objectives": [
+      "Assess knowledge.",
+      "Evaluate preventive practices.",
+      "Identify misconceptions.",
+      "Recommend health promotion interventions."
+    ],
+    "researchQuestions": [
+      "What is the level of malaria knowledge?",
+      "What prevention practices are used?",
+      "What misconceptions exist?",
+      "How can health promotion improve outcomes?"
+    ],
+    "methodology": "Community-based cross-sectional survey.",
+    "keywords": [
+      "malaria",
+      "health promotion",
+      "prevention",
+      "knowledge",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Impact of Open Waste Disposal Practices on Community Health in Urban Slums",
+    "category": "public-health",
+    "researchArea": "Environmental Health",
+    "background": "Poor waste management contributes to disease transmission and environmental pollution.",
+    "objectives": [
+      "Assess waste disposal practices.",
+      "Examine health impacts.",
+      "Identify environmental risks.",
+      "Recommend interventions."
+    ],
+    "researchQuestions": [
+      "What disposal practices are common?",
+      "What health effects are associated?",
+      "What environmental risks exist?",
+      "How can waste management improve?"
+    ],
+    "methodology": "Mixed-methods study.",
+    "keywords": [
+      "environmental health",
+      "waste management",
+      "urban health",
+      "pollution",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Assessment of Air Pollution Exposure and Respiratory Symptoms Among Commercial Motorcyclists in Abuja",
+    "category": "public-health",
+    "researchArea": "Environmental Health",
+    "background": "Occupational exposure to air pollution poses respiratory health risks.",
+    "objectives": [
+      "Assess exposure levels.",
+      "Measure respiratory symptoms.",
+      "Determine associations.",
+      "Recommend interventions."
+    ],
+    "researchQuestions": [
+      "What are exposure levels?",
+      "What respiratory symptoms are prevalent?",
+      "Is there an association?",
+      "What preventive measures are needed?"
+    ],
+    "methodology": "Cross-sectional occupational health study.",
+    "keywords": [
+      "air pollution",
+      "respiratory health",
+      "occupational health",
+      "environmental exposure",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Factors Influencing COVID-19 Vaccine Acceptance Among Adults in Nigeria",
+    "category": "public-health",
+    "researchArea": "Vaccination",
+    "background": "Vaccine hesitancy remains a challenge to immunization programs.",
+    "objectives": [
+      "Assess acceptance levels.",
+      "Identify determinants.",
+      "Evaluate information sources.",
+      "Recommend interventions."
+    ],
+    "researchQuestions": [
+      "What is the level of vaccine acceptance?",
+      "What factors influence hesitancy?",
+      "Which information sources are influential?",
+      "How can confidence be improved?"
+    ],
+    "methodology": "Cross-sectional survey.",
+    "keywords": [
+      "COVID-19",
+      "vaccination",
+      "vaccine hesitancy",
+      "public health",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Prevalence and Predictors of Burnout Among Registered Nurses in Teaching Hospitals in Nigeria",
+    "category": "nursing",
+    "researchArea": "Burnout",
+    "background": "Burnout among nurses affects wellbeing, retention, and quality of care.",
+    "objectives": [
+      "Determine prevalence.",
+      "Identify predictors.",
+      "Assess impact on performance.",
+      "Recommend interventions."
+    ],
+    "researchQuestions": [
+      "What is the prevalence of burnout?",
+      "What factors predict burnout?",
+      "How does burnout affect performance?",
+      "What interventions are effective?"
+    ],
+    "methodology": "Cross-sectional survey.",
+    "keywords": [
+      "burnout",
+      "nurses",
+      "occupational stress",
+      "job satisfaction",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Work-Related Stress and Coping Mechanisms Among Emergency Department Nurses",
+    "category": "nursing",
+    "researchArea": "Burnout",
+    "background": "Emergency nurses experience high levels of occupational stress.",
+    "objectives": [
+      "Assess stress levels.",
+      "Identify stressors.",
+      "Evaluate coping mechanisms.",
+      "Recommend support strategies."
+    ],
+    "researchQuestions": [
+      "What is the level of stress?",
+      "What are the major stressors?",
+      "What coping strategies are used?",
+      "How can wellbeing be improved?"
+    ],
+    "methodology": "Cross-sectional descriptive study.",
+    "keywords": ["stress", "burnout", "emergency nursing", "coping", "Nigeria"]
+  },
+  {
+    "title": "Knowledge and Compliance with Infection Prevention and Control Guidelines Among Nurses",
+    "category": "nursing",
+    "researchArea": "Infection Control",
+    "background": "Compliance with infection prevention measures is essential for patient safety.",
+    "objectives": [
+      "Assess knowledge.",
+      "Evaluate compliance.",
+      "Identify barriers.",
+      "Recommend improvements."
+    ],
+    "researchQuestions": [
+      "What is the knowledge level?",
+      "How compliant are nurses?",
+      "What barriers affect compliance?",
+      "How can compliance improve?"
+    ],
+    "methodology": "Cross-sectional survey and observation.",
+    "keywords": [
+      "infection control",
+      "patient safety",
+      "nursing practice",
+      "healthcare-associated infections",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Hand Hygiene Practices and Associated Factors Among Nurses in Nigerian Hospitals",
+    "category": "nursing",
+    "researchArea": "Infection Control",
+    "background": "Hand hygiene remains a key strategy for infection prevention.",
+    "objectives": [
+      "Assess compliance.",
+      "Identify determinants.",
+      "Evaluate resource availability.",
+      "Recommend interventions."
+    ],
+    "researchQuestions": [
+      "What is the compliance rate?",
+      "What factors influence compliance?",
+      "Are resources adequate?",
+      "How can compliance improve?"
+    ],
+    "methodology": "Observational cross-sectional study.",
+    "keywords": [
+      "hand hygiene",
+      "infection prevention",
+      "nurses",
+      "patient safety",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Nurses’ Role in Promoting Antenatal Care Utilization Among Pregnant Women in Rural Nigeria",
+    "category": "nursing",
+    "researchArea": "Maternal Nursing",
+    "background": "Maternal nurses play an important role in encouraging antenatal care attendance.",
+    "objectives": [
+      "Assess nursing interventions.",
+      "Evaluate perceptions of nursing support.",
+      "Identify barriers.",
+      "Recommend improvements."
+    ],
+    "researchQuestions": [
+      "What nursing interventions are used?",
+      "How do women perceive nursing support?",
+      "What barriers exist?",
+      "How can utilization increase?"
+    ],
+    "methodology": "Mixed-methods study.",
+    "keywords": [
+      "maternal nursing",
+      "antenatal care",
+      "pregnancy",
+      "maternal health",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Factors Influencing Quality of Intrapartum Nursing Care in Maternity Units",
+    "category": "nursing",
+    "researchArea": "Maternal Nursing",
+    "background": "Quality intrapartum nursing care contributes to safe childbirth outcomes.",
+    "objectives": [
+      "Assess care quality.",
+      "Identify influencing factors.",
+      "Evaluate patient satisfaction.",
+      "Recommend improvements."
+    ],
+    "researchQuestions": [
+      "What is the quality of care provided?",
+      "What factors influence care quality?",
+      "How satisfied are mothers?",
+      "How can services improve?"
+    ],
+    "methodology": "Facility-based descriptive study.",
+    "keywords": [
+      "maternal nursing",
+      "intrapartum care",
+      "maternity services",
+      "quality care",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Assessment of Pediatric Nurses’ Knowledge and Management of Childhood Malnutrition",
+    "category": "nursing",
+    "researchArea": "Pediatric Nursing",
+    "background": "Pediatric nurses are central to identifying and managing childhood malnutrition.",
+    "objectives": [
+      "Assess knowledge.",
+      "Evaluate practices.",
+      "Identify training needs.",
+      "Recommend interventions."
+    ],
+    "researchQuestions": [
+      "What is the level of knowledge?",
+      "How is malnutrition managed?",
+      "What training gaps exist?",
+      "How can care improve?"
+    ],
+    "methodology": "Cross-sectional survey.",
+    "keywords": [
+      "pediatric nursing",
+      "malnutrition",
+      "child health",
+      "nutrition",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Parental Satisfaction with Pediatric Nursing Care in Tertiary Hospitals",
+    "category": "nursing",
+    "researchArea": "Pediatric Nursing",
+    "background": "Parental satisfaction influences healthcare utilization and treatment adherence.",
+    "objectives": [
+      "Assess satisfaction levels.",
+      "Identify determinants.",
+      "Evaluate communication.",
+      "Recommend improvements."
+    ],
+    "researchQuestions": [
+      "What is the level of satisfaction?",
+      "What factors influence satisfaction?",
+      "How effective is communication?",
+      "How can family-centered care improve?"
+    ],
+    "methodology": "Cross-sectional hospital-based study.",
+    "keywords": [
+      "pediatric nursing",
+      "patient satisfaction",
+      "family-centered care",
+      "children",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Mental Health Literacy Among Nurses in General Hospitals",
+    "category": "nursing",
+    "researchArea": "Mental Health Nursing",
+    "background": "Mental health literacy is essential for effective nursing practice.",
+    "objectives": [
+      "Assess literacy levels.",
+      "Identify influencing factors.",
+      "Evaluate attitudes.",
+      "Recommend education programs."
+    ],
+    "researchQuestions": [
+      "What is the level of literacy?",
+      "What factors influence literacy?",
+      "What attitudes exist?",
+      "How can literacy improve?"
+    ],
+    "methodology": "Cross-sectional survey.",
+    "keywords": [
+      "mental health nursing",
+      "literacy",
+      "attitudes",
+      "nurses",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Attitudes and Preparedness of Nurses Toward Caring for Patients with Mental Health Disorders",
+    "category": "nursing",
+    "researchArea": "Mental Health Nursing",
+    "background": "Integration of mental health services requires adequately prepared nurses.",
+    "objectives": [
+      "Assess attitudes.",
+      "Evaluate preparedness.",
+      "Identify training needs.",
+      "Recommend capacity building."
+    ],
+    "researchQuestions": [
+      "What attitudes do nurses hold?",
+      "How prepared are nurses?",
+      "What training gaps exist?",
+      "How can preparedness improve?"
+    ],
+    "methodology": "Descriptive cross-sectional survey.",
+    "keywords": [
+      "mental health nursing",
+      "preparedness",
+      "attitudes",
+      "training",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Knowledge and Competence of Nurses in the Management of Critically Ill Patients in Intensive Care Units",
+    "category": "nursing",
+    "researchArea": "Critical Care",
+    "background": "Critical care nursing requires specialized competencies to manage complex cases.",
+    "objectives": [
+      "Assess knowledge.",
+      "Evaluate competence.",
+      "Identify influencing factors.",
+      "Recommend training initiatives."
+    ],
+    "researchQuestions": [
+      "What is the level of knowledge?",
+      "How competent are ICU nurses?",
+      "What factors influence competence?",
+      "How can skills improve?"
+    ],
+    "methodology": "Cross-sectional competency assessment.",
+    "keywords": [
+      "critical care nursing",
+      "ICU",
+      "clinical competence",
+      "patient management",
+      "Nigeria"
+    ]
+  }
+]

@@ -15,35 +15,34 @@ const client = createClient({
 });
 
 async function importTopics() {
-  for (const topic of topics) {
-    console.log(
-      JSON.stringify(
-        {
+  try {
+    console.log(`Found ${topics.length} topics`);
+
+    for (const topic of topics) {
+      try {
+        const result = await client.create({
           _type: "projectTopic",
+
           ...topic,
-        },
-        null,
-        2,
-      ),
-    );
-    await client.create({
-      _type: "projectTopic",
 
-      ...topic,
+          slug: {
+            _type: "slug",
+            current: topic.title
+              .toLowerCase()
+              .replace(/[^\w\s-]/g, "")
+              .replace(/\s+/g, "-"),
+          },
+        });
 
-      slug: {
-        _type: "slug",
-        current: topic.title
-          .toLowerCase()
-          .replace(/[^\w\s-]/g, "")
-          .replace(/\s+/g, "-"),
-      },
-    });
+        console.log(`✓ Imported: ${result.title}`);
+      } catch (error) {
+        console.error(`✗ Failed: ${topic.title}`);
+        console.error(error);
+      }
+    }
 
-    console.log(`Imported: ${topic.title}`);
+    console.log("Import complete");
+  } catch (error) {
+    console.error(error);
   }
-
-  console.log("Import complete");
 }
-
-importTopics();
