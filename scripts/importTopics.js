@@ -4,7 +4,28 @@ dotenv.config();
 import fs from "fs";
 import { createClient } from "@sanity/client";
 
-const topics = JSON.parse(fs.readFileSync("./topics.json", "utf8"));
+console.log("=== STARTING IMPORT ===");
+
+// Verify environment variables
+console.log("Project ID:", process.env.SANITY_PROJECT_ID);
+console.log("Token exists:", !!process.env.SANITY_API_TOKEN);
+
+// Verify topics file exists
+console.log("topics.json exists:", fs.existsSync("./topics.json"));
+
+let topics = [];
+
+try {
+  topics = JSON.parse(fs.readFileSync("./topics.json", "utf8"));
+
+  console.log("Topics loaded successfully");
+  console.log("Is array:", Array.isArray(topics));
+  console.log("Topic count:", topics.length);
+} catch (error) {
+  console.error("Failed to load topics.json");
+  console.error(error);
+  process.exit(1);
+}
 
 const client = createClient({
   projectId: process.env.SANITY_PROJECT_ID,
@@ -14,35 +35,69 @@ const client = createClient({
   useCdn: false,
 });
 
-async function importTopics() {
+// Test Sanity connection
+async function testConnection() {
   try {
-    console.log(`Found ${topics.length} topics`);
+    console.log("\n=== TESTING SANITY CONNECTION ===");
 
-    for (const topic of topics) {
-      try {
-        const result = await client.create({
-          _type: "projectTopic",
+    const result = await client.fetch(`count(*[_type == "projectTopic"])`);
 
-          ...topic,
+    console.log("Connected successfully");
+    console.log("Current projectTopic count:", result);
 
-          slug: {
-            _type: "slug",
-            current: topic.title
-              .toLowerCase()
-              .replace(/[^\w\s-]/g, "")
-              .replace(/\s+/g, "-"),
-          },
-        });
-
-        console.log(`✓ Imported: ${result.title}`);
-      } catch (error) {
-        console.error(`✗ Failed: ${topic.title}`);
-        console.error(error);
-      }
-    }
-
-    console.log("Import complete");
+    return true;
   } catch (error) {
+    console.error("Sanity connection failed");
     console.error(error);
+    return false;
   }
 }
+
+async function importTopics() {
+  console.log("\n=== STARTING IMPORT PROCESS ===");
+
+  const connected = await testConnection();
+
+  if (!connected) {
+    console.log("Aborting import.");
+    return;
+  }
+
+  for (const topic of topics) {
+    try {
+      console.log(`Importing: ${topic.title}`);
+
+      const doc = {
+        _type: "projectTopic",
+
+        ...topic,
+
+        slug: {
+          _type: "slug",
+          current: topic.title
+            .toLowerCase()
+            .replace(/[^\w\s-]/g, "")
+            .replace(/\s+/g, "-"),
+        },
+      };
+
+      const result = await client.create(doc);
+
+      console.log(`✓ Imported: ${result.title || topic.title}`);
+    } catch (error) {
+      console.error(`✗ Failed to import: ${topic.title}`);
+      console.error(error);
+    }
+  }
+
+  console.log("\n=== IMPORT COMPLETE ===");
+}
+
+importTopics()
+  .then(() => {
+    console.log("Finished successfully");
+  })
+  .catch((error) => {
+    console.error("FATAL ERROR");
+    console.error(error);
+  });
