@@ -16,8 +16,8 @@ export default function Navbar() {
             <Image
               src="/images/logo.png"
               alt="Research Desk"
-              width={180}
-              height={40}
+              width={200}
+              height={50}
               priority
               className="h-10 w-auto"
             />
