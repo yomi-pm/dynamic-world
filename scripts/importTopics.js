@@ -29,7 +29,7 @@ try {
 
 const client = createClient({
   projectId: process.env.SANITY_PROJECT_ID,
-  dataset: "production",
+  dataset: process.env.SANITY_DATASET || process.env.NEXT_PUBLIC_SANITY_DATASET,
   token: process.env.SANITY_API_TOKEN,
   apiVersion: "2025-01-01",
   useCdn: false,
