@@ -121,7 +121,7 @@ export default function Hero() {
               "
             >
               <Image
-                src="/images/research-papers.jpg"
+                src="/images/hero-image.jpg"
                 alt="Research image"
                 fill
                 className="object-cover"
