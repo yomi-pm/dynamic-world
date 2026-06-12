@@ -14,7 +14,7 @@ export default function Footer() {
               alt="Research Desk"
               width={180}
               height={40}
-              className="h-10 w-auto"
+              className="h-12 w-auto"
             />
 
             <p className="mt-4 text-slate-600 leading-7">

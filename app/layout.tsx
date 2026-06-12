@@ -5,6 +5,7 @@ import { Inter } from "next/font/google";
 import { cn } from "@/lib/utils";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import type { Metadata } from "next";
+import Image from "next/image";
 import FloatingWhatsApp from "@/components/FloatingWhatsApp";
 import MicrosoftClarity from "@/components/MicrosoftClarity";
 
@@ -35,10 +36,6 @@ export const metadata: Metadata = {
   title: {
     default: "Research Desk | Research Resources. Expert Support.",
     template: "%s | Research Desk",
-  },
-
-  icons: {
-    icon: "/favicon.png",
   },
 
   description:
