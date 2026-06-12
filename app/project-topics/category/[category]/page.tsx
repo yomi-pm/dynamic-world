@@ -1,8 +1,11 @@
 import { client } from "@/sanity/client";
 import TopicCard from "@/components/project-topics/TopicCard";
+import Pagination from "@/components/project-topics/Pagination";
 import Container from "@/components/Container";
 import Link from "next/link";
 import { categories } from "@/lib/categories";
+
+const PAGE_SIZE = 12;
 
 export async function generateStaticParams() {
   return categories.map((category) => ({
@@ -26,15 +29,45 @@ export async function generateMetadata({ params }: any) {
   };
 }
 
-export default async function CategoryPage({ params }: any) {
+export default async function CategoryPage({
+  params,
+  searchParams,
+}: {
+  params: Promise<{ category: string }>;
+  searchParams: Promise<{ page?: string }>;
+}) {
   const { category } = await params;
+
+  const resolvedSearchParams = await searchParams;
+
+  const page = Number(resolvedSearchParams.page || "1");
+
+  const start = (page - 1) * PAGE_SIZE;
+
+  const totalTopics = await client.fetch(
+    `
+    count(
+      *[
+        _type=="projectTopic" &&
+        category==$category
+      ]
+    )
+    `,
+    {
+      category,
+    },
+  );
+
+  const totalPages = Math.ceil(totalTopics / PAGE_SIZE);
 
   const topics = await client.fetch(
     `
     *[
       _type=="projectTopic" &&
       category==$category
-    ] | order(title asc){
+    ]
+    | order(title asc)
+    [$start...$end]{
       _id,
       title,
       category,
@@ -44,6 +77,8 @@ export default async function CategoryPage({ params }: any) {
     `,
     {
       category,
+      start,
+      end: start + PAGE_SIZE,
     },
   );
 
@@ -85,14 +120,8 @@ export default async function CategoryPage({ params }: any) {
             {categoryData?.description}
           </p>
 
-          <p
-            className="
-            mt-6
-            text-sm
-            text-slate-500
-            "
-          >
-            {topics.length} research topics available
+          <p className="mt-6 text-sm text-slate-500">
+            {totalTopics} research topics available
           </p>
         </div>
       </section>
@@ -117,7 +146,7 @@ export default async function CategoryPage({ params }: any) {
         </div>
       </section>
 
-      {/* TOPICS GRID */}
+      {/* TOPICS */}
 
       <section className="pb-20">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
@@ -125,6 +154,12 @@ export default async function CategoryPage({ params }: any) {
             <TopicCard key={topic._id} topic={topic} />
           ))}
         </div>
+
+        <Pagination
+          currentPage={page}
+          totalPages={totalPages}
+          basePath={`/project-topics/category/${category}`}
+        />
       </section>
 
       {/* RELATED CATEGORIES */}
@@ -132,14 +167,7 @@ export default async function CategoryPage({ params }: any) {
       <section className="pb-24">
         <h2 className="text-2xl font-bold">Explore Other Categories</h2>
 
-        <div
-          className="
-          mt-8
-          flex
-          flex-wrap
-          gap-3
-          "
-        >
+        <div className="mt-8 flex flex-wrap gap-3">
           {relatedCategories.map((category) => (
             <Link
               key={category.slug}
