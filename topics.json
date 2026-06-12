@@ -1,530 +1,1196 @@
 [
   {
-    "title": "Determinants of Antenatal Care Utilization Among Pregnant Women in Rural Northern Nigeria",
+    "title": "Determinants of Childhood Immunization Defaulting Among Caregivers Attending Primary Healthcare Facilities in Rural North-West Nigeria",
     "category": "public-health",
-    "researchArea": "Maternal Health",
-    "background": "Maternal mortality remains a major public health challenge in Nigeria, particularly in rural northern regions where access to quality maternal healthcare services is limited.",
+    "background": "Childhood immunization remains one of the most effective public health interventions for preventing vaccine-preventable diseases. Despite improvements in immunization coverage across Nigeria, several northern states continue to report suboptimal vaccination uptake and high rates of immunization defaulting. Factors such as vaccine hesitancy, poor healthcare access, low maternal education, cultural beliefs, insecurity, and health system constraints contribute to missed vaccination opportunities. Immunization defaulting increases the risk of disease outbreaks, childhood morbidity, and mortality. Understanding the specific factors influencing caregivers' adherence to vaccination schedules is essential for designing targeted interventions that improve vaccine completion rates. Evidence from rural communities remains limited despite their disproportionate burden of under-immunization. This study seeks to identify determinants of childhood immunization defaulting among caregivers attending primary healthcare facilities in rural North-West Nigeria and generate evidence to support context-specific immunization strategies.",
     "objectives": [
-      "Assess antenatal care utilization.",
-      "Identify factors influencing attendance.",
-      "Examine barriers to access.",
-      "Recommend interventions."
+      "Assess the prevalence of childhood immunization defaulting among caregivers attending selected primary healthcare facilities.",
+      "Determine caregiver-related factors associated with immunization defaulting.",
+      "Examine health system factors influencing adherence to vaccination schedules.",
+      "Evaluate the effect of geographical accessibility on immunization completion.",
+      "Identify predictors of immunization defaulting among caregivers."
     ],
     "researchQuestions": [
-      "What is the level of antenatal care utilization?",
-      "Which factors influence attendance?",
-      "What barriers affect access?",
-      "How can utilization be improved?"
+      "What is the prevalence of childhood immunization defaulting among caregivers in the study area?",
+      "Which caregiver characteristics are associated with immunization defaulting?",
+      "How do health system factors influence vaccination schedule adherence?",
+      "What is the effect of healthcare accessibility on immunization completion?",
+      "Which factors independently predict immunization defaulting?"
     ],
-    "methodology": "Cross-sectional community survey.",
+    "hypotheses": [
+      "There is no significant association between caregiver educational status and childhood immunization defaulting.",
+      "There is no significant relationship between distance to healthcare facilities and immunization completion.",
+      "There is no significant association between healthcare service quality and immunization defaulting."
+    ],
+    "methodology": "A facility-based cross-sectional analytical study will be conducted among caregivers of children aged 12–23 months attending selected primary healthcare facilities. Multistage sampling will be used to recruit participants. Data will be collected using structured interviewer-administered questionnaires and immunization card reviews. Descriptive statistics will summarize immunization status, while chi-square tests and logistic regression analyses will identify factors associated with immunization defaulting. Statistical significance will be set at p < 0.05.",
     "keywords": [
-      "maternal health",
-      "antenatal care",
-      "pregnancy",
-      "healthcare access",
-      "Nigeria"
-    ]
-  },
-  {
-    "title": "Prevalence and Risk Factors of Postpartum Depression Among Mothers Attending Primary Healthcare Centers in Lagos State",
-    "category": "public-health",
-    "researchArea": "Maternal Health",
-    "background": "Postpartum depression is underdiagnosed in Nigeria despite its impact on maternal and child wellbeing.",
-    "objectives": [
-      "Determine prevalence.",
-      "Identify risk factors.",
-      "Assess awareness.",
-      "Recommend screening strategies."
+      "Immunization",
+      "Vaccine Uptake",
+      "Caregivers",
+      "Primary Healthcare",
+      "Child Health",
+      "Nigeria",
+      "Vaccination Defaulting"
     ],
-    "researchQuestions": [
-      "What is the prevalence of postpartum depression?",
-      "What are the risk factors?",
-      "What is the awareness level?",
-      "How can screening be improved?"
-    ],
-    "methodology": "Facility-based cross-sectional study.",
-    "keywords": [
-      "postpartum depression",
-      "maternal mental health",
-      "women",
-      "primary healthcare",
-      "Nigeria"
-    ]
-  },
-  {
-    "title": "Factors Associated with Childhood Stunting Among Children Under Five in Nigeria",
-    "category": "public-health",
     "researchArea": "Child Health",
-    "background": "Childhood stunting remains a major public health concern affecting growth and development.",
-    "objectives": [
-      "Estimate prevalence.",
-      "Identify determinants.",
-      "Assess feeding practices.",
-      "Recommend interventions."
-    ],
-    "researchQuestions": [
-      "What is the prevalence of stunting?",
-      "Which factors contribute to stunting?",
-      "How do feeding practices influence outcomes?",
-      "What interventions are effective?"
-    ],
-    "methodology": "Cross-sectional survey with anthropometric measurements.",
-    "keywords": ["stunting", "child health", "nutrition", "growth", "Nigeria"]
+    "sampleSuggestion": "350 caregivers of children aged 12–23 months attending primary healthcare facilities"
   },
   {
-    "title": "Assessment of Exclusive Breastfeeding Practices Among Nursing Mothers in Urban Nigeria",
+    "title": "Prevalence and Predictors of Postpartum Depression Among Mothers Receiving Postnatal Care in Urban Secondary Hospitals in South-West Nigeria",
     "category": "public-health",
-    "researchArea": "Nutrition",
-    "background": "Exclusive breastfeeding remains below recommended levels despite its health benefits.",
+    "background": "Postpartum depression is a major public health concern affecting maternal wellbeing, infant development, and family functioning. In Nigeria, mental health disorders among women are often underdiagnosed due to stigma, poor awareness, and limited integration of mental health services into maternal healthcare. Rapid urbanization, economic pressures, inadequate social support, and pregnancy-related complications may increase vulnerability to postpartum depression among Nigerian mothers. Despite growing recognition of maternal mental health as a critical component of reproductive health, evidence on the prevalence and determinants of postpartum depression remains insufficient in many urban settings. Early identification of at-risk mothers can improve maternal outcomes and inform interventions integrated within routine postnatal care services. This study seeks to assess the prevalence and predictors of postpartum depression among mothers attending postnatal clinics in selected urban secondary hospitals in South-West Nigeria.",
     "objectives": [
-      "Determine prevalence.",
-      "Identify influencing factors.",
-      "Assess maternal knowledge.",
-      "Recommend promotion strategies."
+      "Determine the prevalence of postpartum depression among mothers attending postnatal clinics.",
+      "Assess socio-demographic factors associated with postpartum depression.",
+      "Examine the influence of social support on postpartum depression.",
+      "Evaluate the relationship between obstetric factors and postpartum depression.",
+      "Identify predictors of postpartum depression among postpartum mothers."
     ],
     "researchQuestions": [
-      "What proportion of mothers practice exclusive breastfeeding?",
-      "What factors influence breastfeeding practices?",
-      "What is the level of knowledge?",
-      "How can uptake be improved?"
+      "What is the prevalence of postpartum depression among mothers attending postnatal clinics?",
+      "Which socio-demographic factors are associated with postpartum depression?",
+      "How does social support influence postpartum depression?",
+      "What obstetric factors are associated with postpartum depression?",
+      "Which variables independently predict postpartum depression?"
     ],
-    "methodology": "Descriptive cross-sectional study.",
+    "hypotheses": [
+      "There is no significant association between social support and postpartum depression.",
+      "There is no significant relationship between obstetric complications and postpartum depression.",
+      "There is no significant association between maternal socioeconomic status and postpartum depression."
+    ],
+    "methodology": "A hospital-based cross-sectional study will be conducted among postpartum women attending postnatal clinics. Participants will be recruited using systematic random sampling. Data will be collected using the Edinburgh Postnatal Depression Scale and structured questionnaires. Descriptive statistics will determine prevalence, while bivariate and multivariable logistic regression analyses will identify predictors. Statistical significance will be established at p < 0.05.",
     "keywords": [
-      "exclusive breastfeeding",
-      "nutrition",
-      "child health",
-      "maternal health",
+      "Postpartum Depression",
+      "Maternal Health",
+      "Mental Health",
+      "Postnatal Care",
+      "Women",
       "Nigeria"
-    ]
+    ],
+    "researchArea": "Mental Health",
+    "sampleSuggestion": "300 postpartum mothers attending secondary hospitals"
   },
   {
-    "title": "Prevalence and Predictors of Childhood Immunization Defaulting in Primary Healthcare Facilities",
+    "title": "Household Air Pollution Exposure and Respiratory Health Outcomes Among Women and Children in Rural Communities of North-Central Nigeria",
     "category": "public-health",
-    "researchArea": "Vaccination",
-    "background": "Immunization defaulting contributes to outbreaks of vaccine-preventable diseases.",
+    "background": "Household air pollution remains a significant environmental health challenge in Nigeria, particularly in rural communities where biomass fuels such as firewood and charcoal are commonly used for cooking. Exposure to smoke from traditional cooking methods contributes to respiratory infections, chronic respiratory diseases, and adverse health outcomes among women and children who spend considerable time near cooking areas. Despite increasing awareness of environmental health risks, clean cooking technologies remain inaccessible to many households due to economic and infrastructural barriers. Understanding the relationship between household air pollution exposure and respiratory health outcomes is essential for informing interventions aimed at reducing disease burden. This study seeks to evaluate the association between household air pollution and respiratory health outcomes among women and children in rural North-Central Nigeria.",
     "objectives": [
-      "Determine prevalence.",
-      "Identify predictors.",
-      "Assess caregiver knowledge.",
-      "Recommend interventions."
+      "Assess the prevalence of biomass fuel use among households.",
+      "Determine the prevalence of respiratory symptoms among women and children.",
+      "Evaluate the association between biomass fuel exposure and respiratory outcomes.",
+      "Examine household factors influencing exposure levels.",
+      "Identify predictors of respiratory health problems among exposed populations."
     ],
     "researchQuestions": [
-      "How common is immunization defaulting?",
-      "What factors contribute to defaulting?",
-      "How knowledgeable are caregivers?",
-      "How can completion rates improve?"
+      "What proportion of households rely on biomass fuels?",
+      "What is the prevalence of respiratory symptoms among women and children?",
+      "Is there an association between biomass fuel exposure and respiratory health outcomes?",
+      "Which household characteristics influence exposure levels?",
+      "What factors predict respiratory illnesses among participants?"
     ],
-    "methodology": "Facility-based cross-sectional study.",
+    "hypotheses": [
+      "There is no significant association between biomass fuel exposure and respiratory symptoms.",
+      "There is no significant relationship between cooking environment characteristics and respiratory health outcomes."
+    ],
+    "methodology": "A community-based cross-sectional study will be conducted among households in selected rural communities. Multistage sampling will be used to recruit participants. Data will be collected through questionnaires, direct observation, and respiratory health assessments. Descriptive statistics, chi-square tests, and logistic regression analyses will be performed to evaluate associations and predictors.",
     "keywords": [
-      "vaccination",
-      "immunization",
-      "children",
-      "public health",
+      "Household Air Pollution",
+      "Respiratory Health",
+      "Environmental Health",
+      "Women",
+      "Children",
+      "Biomass Fuel",
       "Nigeria"
-    ]
+    ],
+    "researchArea": "Environmental Health",
+    "sampleSuggestion": "400 women and caregivers of children from rural households"
   },
   {
-    "title": "Epidemiology of Hypertension Among Adults in Semi-Urban Communities of South-West Nigeria",
+    "title": "Factors Influencing Antenatal Care Initiation During the First Trimester Among Pregnant Women in Semi-Urban Communities of South-East Nigeria",
     "category": "public-health",
-    "researchArea": "Epidemiology",
-    "background": "Hypertension is a growing noncommunicable disease burden in Nigeria.",
+    "background": "Early initiation of antenatal care is essential for improving maternal and neonatal outcomes through timely detection and management of pregnancy-related complications. However, many pregnant women in Nigeria initiate antenatal care late despite national and international recommendations. Delayed booking limits opportunities for preventive interventions, health education, and risk screening. Socioeconomic status, educational attainment, cultural beliefs, healthcare accessibility, and quality of services may influence antenatal care utilization. Although several studies have examined antenatal attendance, evidence specifically addressing first-trimester initiation remains limited in many semi-urban settings. Understanding factors associated with early antenatal care utilization is important for designing interventions that improve maternal healthcare-seeking behaviour. This study aims to investigate factors influencing first-trimester antenatal care initiation among pregnant women in South-East Nigeria.",
     "objectives": [
-      "Estimate prevalence.",
-      "Identify risk factors.",
-      "Assess awareness.",
-      "Recommend prevention measures."
+      "Determine the prevalence of first-trimester antenatal care initiation.",
+      "Assess socio-demographic factors associated with early antenatal booking.",
+      "Evaluate healthcare accessibility factors influencing antenatal care initiation.",
+      "Examine the role of maternal knowledge on antenatal care utilization.",
+      "Identify predictors of first-trimester antenatal care attendance."
     ],
     "researchQuestions": [
-      "What is the prevalence of hypertension?",
-      "Which factors are associated with hypertension?",
-      "What is the awareness level?",
-      "How can prevention be strengthened?"
+      "What proportion of women initiate antenatal care during the first trimester?",
+      "Which socio-demographic factors influence early antenatal booking?",
+      "How does healthcare accessibility affect antenatal care initiation?",
+      "What role does maternal knowledge play in early antenatal attendance?",
+      "Which factors independently predict first-trimester booking?"
     ],
-    "methodology": "Community-based epidemiological survey.",
-    "keywords": ["hypertension", "epidemiology", "NCDs", "adults", "Nigeria"]
+    "hypotheses": [
+      "There is no significant association between maternal education and first-trimester antenatal care initiation.",
+      "There is no significant relationship between healthcare accessibility and early antenatal booking."
+    ],
+    "methodology": "A descriptive cross-sectional study will be conducted among pregnant women attending antenatal clinics in selected healthcare facilities. Data will be collected using structured questionnaires. Multistage sampling will be employed, and logistic regression analysis will identify predictors of early antenatal care initiation.",
+    "keywords": [
+      "Antenatal Care",
+      "Maternal Health",
+      "Pregnancy",
+      "Healthcare Access",
+      "Nigeria",
+      "First Trimester"
+    ],
+    "researchArea": "Maternal Health",
+    "sampleSuggestion": "320 pregnant women attending antenatal clinics"
   },
   {
-    "title": "Knowledge, Attitudes and Practices Regarding Malaria Prevention Among Households in Rural Nigeria",
+    "title": "Knowledge, Risk Perception and Acceptance of Human Papillomavirus Vaccination Among Female Undergraduate Students in Nigerian Universities",
     "category": "public-health",
+    "background": "Cervical cancer remains a leading cause of cancer-related morbidity and mortality among women in Nigeria. Human papillomavirus vaccination offers a highly effective strategy for reducing the burden of cervical cancer. However, vaccine uptake remains low due to inadequate awareness, misconceptions, cultural concerns, cost barriers, and limited access. Female university students represent an important target population for preventive interventions because they are at an age where vaccination can still provide substantial benefits. Understanding knowledge levels, risk perception, and vaccine acceptance among young women is critical for developing effective awareness campaigns and vaccination programs. This study seeks to evaluate factors influencing acceptance of human papillomavirus vaccination among female undergraduate students in Nigerian universities.",
+    "objectives": [
+      "Assess knowledge of human papillomavirus and cervical cancer among female students.",
+      "Determine levels of risk perception regarding cervical cancer.",
+      "Evaluate willingness to receive HPV vaccination.",
+      "Examine factors influencing vaccine acceptance.",
+      "Identify predictors of HPV vaccine uptake intention."
+    ],
+    "researchQuestions": [
+      "What is the level of knowledge of HPV and cervical cancer among female students?",
+      "How do students perceive their risk of cervical cancer?",
+      "What proportion of students are willing to receive HPV vaccination?",
+      "Which factors influence vaccine acceptance?",
+      "What factors predict intention to receive HPV vaccination?"
+    ],
+    "hypotheses": [
+      "There is no significant association between HPV knowledge and vaccine acceptance.",
+      "There is no significant relationship between perceived risk and intention to receive HPV vaccination."
+    ],
+    "methodology": "A university-based cross-sectional study will be conducted among female undergraduate students selected through stratified random sampling. Data will be collected using self-administered questionnaires. Descriptive statistics and multivariable logistic regression analyses will be used to identify determinants of vaccine acceptance.",
+    "keywords": [
+      "HPV Vaccination",
+      "Cervical Cancer",
+      "Vaccine Acceptance",
+      "University Students",
+      "Women's Health",
+      "Nigeria"
+    ],
     "researchArea": "Health Promotion",
-    "background": "Malaria remains endemic despite prevention campaigns.",
-    "objectives": [
-      "Assess knowledge.",
-      "Evaluate preventive practices.",
-      "Identify misconceptions.",
-      "Recommend health promotion interventions."
-    ],
-    "researchQuestions": [
-      "What is the level of malaria knowledge?",
-      "What prevention practices are used?",
-      "What misconceptions exist?",
-      "How can health promotion improve outcomes?"
-    ],
-    "methodology": "Community-based cross-sectional survey.",
-    "keywords": [
-      "malaria",
-      "health promotion",
-      "prevention",
-      "knowledge",
-      "Nigeria"
-    ]
+    "sampleSuggestion": "500 female undergraduate students"
   },
   {
-    "title": "Impact of Open Waste Disposal Practices on Community Health in Urban Slums",
+    "title": "Assessment of Climate Change-Related Heat Exposure and Its Impact on Occupational Health Among Outdoor Workers in Lagos State",
     "category": "public-health",
+    "background": "Climate change has intensified the frequency and severity of heat-related events globally, with significant implications for occupational health. In Nigeria, outdoor workers such as construction laborers, traffic officers, street vendors, and agricultural workers are increasingly exposed to prolonged periods of extreme heat. Heat exposure can contribute to dehydration, heat stress, reduced productivity, cardiovascular strain, and other adverse health outcomes. Despite growing concerns about climate-related health risks, limited empirical evidence exists regarding occupational heat exposure among vulnerable worker populations in Nigeria. Understanding the magnitude of heat-related health challenges and associated risk factors is essential for developing workplace adaptation strategies and public health policies. This study seeks to assess the impact of climate change-related heat exposure on occupational health among outdoor workers in Lagos State.",
+    "objectives": [
+      "Assess the level of occupational heat exposure among outdoor workers.",
+      "Determine the prevalence of heat-related health symptoms.",
+      "Examine factors associated with increased heat-related health risks.",
+      "Evaluate awareness and adoption of heat adaptation measures.",
+      "Identify predictors of heat-related occupational health outcomes."
+    ],
+    "researchQuestions": [
+      "What is the level of heat exposure among outdoor workers?",
+      "What heat-related health symptoms are commonly reported?",
+      "Which factors increase vulnerability to heat-related illnesses?",
+      "What adaptation measures are used by workers?",
+      "What factors predict adverse heat-related health outcomes?"
+    ],
+    "hypotheses": [
+      "There is no significant association between duration of heat exposure and heat-related health symptoms.",
+      "There is no significant relationship between adaptation practices and heat-related health outcomes."
+    ],
+    "methodology": "A cross-sectional analytical study will be conducted among outdoor workers selected through multistage sampling. Data will be collected using structured questionnaires, workplace observations, and heat exposure assessments. Descriptive statistics, chi-square tests, and logistic regression analyses will be employed to identify predictors of adverse health outcomes. Statistical significance will be set at p < 0.05.",
+    "keywords": [
+      "Climate Change",
+      "Heat Exposure",
+      "Occupational Health",
+      "Outdoor Workers",
+      "Environmental Health",
+      "Nigeria"
+    ],
+    "researchArea": "Climate and Health",
+    "sampleSuggestion": "400 outdoor workers across selected occupations in Lagos State"
+  },
+  {
+    "title": "Timeliness and Completeness of Integrated Disease Surveillance Reporting Among Primary Healthcare Facilities in North-East Nigeria",
+    "category": "public-health",
+    "background": "Effective disease surveillance is critical for early detection and response to public health threats. Nigeria's Integrated Disease Surveillance and Response system plays a vital role in monitoring priority diseases and guiding outbreak control measures. However, challenges related to infrastructure, workforce capacity, insecurity, and reporting systems often affect surveillance performance, particularly in underserved regions. Delays and incomplete reporting can compromise outbreak detection and response effectiveness. Despite efforts to strengthen surveillance systems, evidence regarding reporting performance at primary healthcare facilities remains limited in many parts of North-East Nigeria. This study aims to assess the timeliness and completeness of disease surveillance reporting and identify factors influencing reporting performance.",
+    "objectives": [
+      "Assess the timeliness of disease surveillance reporting among healthcare facilities.",
+      "Determine the completeness of surveillance reports submitted.",
+      "Evaluate health worker knowledge of surveillance guidelines.",
+      "Examine institutional factors affecting reporting performance.",
+      "Identify predictors of timely and complete reporting."
+    ],
+    "researchQuestions": [
+      "What proportion of reports are submitted on time?",
+      "How complete are surveillance reports from healthcare facilities?",
+      "What is the level of health worker knowledge regarding surveillance guidelines?",
+      "Which institutional factors affect reporting performance?",
+      "What factors predict timely and complete reporting?"
+    ],
+    "hypotheses": [
+      "There is no significant association between staff training and surveillance reporting performance.",
+      "There is no significant relationship between facility resources and reporting completeness."
+    ],
+    "methodology": "A cross-sectional study involving surveillance officers and healthcare workers will be conducted. Facility records will be reviewed alongside questionnaire administration. Data will be analyzed using descriptive statistics and multivariable regression models to determine factors associated with reporting performance.",
+    "keywords": [
+      "Disease Surveillance",
+      "IDSR",
+      "Public Health",
+      "Reporting Performance",
+      "Outbreak Detection",
+      "Nigeria"
+    ],
+    "researchArea": "Disease Surveillance",
+    "sampleSuggestion": "200 surveillance officers and healthcare workers from primary healthcare facilities"
+  },
+  {
+    "title": "Prevalence and Determinants of Hypertension Awareness, Treatment and Control Among Adults in Semi-Urban Communities of South-South Nigeria",
+    "category": "public-health",
+    "background": "Hypertension is a leading risk factor for cardiovascular disease and premature mortality globally. In Nigeria, the prevalence of hypertension continues to rise due to urbanization, dietary transitions, physical inactivity, and population aging. Despite increasing disease burden, many individuals remain unaware of their hypertensive status, while treatment adherence and blood pressure control remain suboptimal. Poor awareness and inadequate management contribute significantly to preventable complications such as stroke, heart failure, and kidney disease. Understanding factors influencing hypertension awareness, treatment uptake, and control is essential for strengthening non-communicable disease interventions. This study seeks to evaluate hypertension awareness, treatment, and control among adults residing in semi-urban communities of South-South Nigeria.",
+    "objectives": [
+      "Determine the prevalence of hypertension among adults.",
+      "Assess awareness of hypertension status among affected individuals.",
+      "Evaluate treatment uptake among diagnosed hypertensive patients.",
+      "Examine factors associated with blood pressure control.",
+      "Identify predictors of hypertension management outcomes."
+    ],
+    "researchQuestions": [
+      "What is the prevalence of hypertension in the study population?",
+      "What proportion of hypertensive individuals are aware of their condition?",
+      "What proportion receive treatment for hypertension?",
+      "Which factors influence blood pressure control?",
+      "What factors predict effective hypertension management?"
+    ],
+    "hypotheses": [
+      "There is no significant association between educational status and hypertension awareness.",
+      "There is no significant relationship between treatment adherence and blood pressure control."
+    ],
+    "methodology": "A community-based cross-sectional study will be conducted among adults aged 18 years and above. Participants will be selected through multistage sampling. Blood pressure measurements and structured questionnaires will be used for data collection. Descriptive and inferential statistical analyses will be performed, including logistic regression modeling.",
+    "keywords": [
+      "Hypertension",
+      "Non-Communicable Diseases",
+      "Cardiovascular Health",
+      "Treatment Adherence",
+      "Population Health",
+      "Nigeria"
+    ],
+    "researchArea": "Epidemiology",
+    "sampleSuggestion": "500 adults residing in semi-urban communities"
+  },
+  {
+    "title": "Health Insurance Enrollment and Healthcare Utilization Among Informal Sector Workers in Urban Nigeria",
+    "category": "public-health",
+    "background": "Achieving universal health coverage remains a priority for Nigeria's health sector. Although health insurance schemes have expanded in recent years, enrollment among informal sector workers remains relatively low despite their substantial contribution to the national workforce. Financial barriers continue to limit access to healthcare services, resulting in delayed care-seeking and catastrophic health expenditures. Understanding factors influencing health insurance enrollment and healthcare utilization among informal workers is critical for informing strategies aimed at expanding coverage and improving access to essential health services. This study investigates the relationship between health insurance enrollment and healthcare utilization among informal sector workers in urban Nigeria.",
+    "objectives": [
+      "Determine the prevalence of health insurance enrollment among informal sector workers.",
+      "Assess healthcare utilization patterns among participants.",
+      "Examine factors influencing health insurance enrollment.",
+      "Evaluate the relationship between insurance coverage and healthcare utilization.",
+      "Identify barriers to health insurance uptake."
+    ],
+    "researchQuestions": [
+      "What proportion of informal workers are enrolled in health insurance schemes?",
+      "How frequently do participants utilize healthcare services?",
+      "What factors influence health insurance enrollment?",
+      "How does insurance coverage affect healthcare utilization?",
+      "What barriers hinder enrollment in health insurance schemes?"
+    ],
+    "hypotheses": [
+      "There is no significant association between health insurance enrollment and healthcare utilization.",
+      "There is no significant relationship between income level and health insurance enrollment."
+    ],
+    "methodology": "A descriptive cross-sectional study will be conducted among informal sector workers selected through cluster sampling. Data will be collected using structured questionnaires and analyzed using descriptive statistics, chi-square tests, and logistic regression analyses.",
+    "keywords": [
+      "Health Insurance",
+      "Universal Health Coverage",
+      "Healthcare Utilization",
+      "Informal Sector",
+      "Health Systems",
+      "Nigeria"
+    ],
+    "researchArea": "Health Systems Strengthening",
+    "sampleSuggestion": "450 informal sector workers in urban communities"
+  },
+  {
+    "title": "Association Between Social Media Health Misinformation Exposure and Vaccine Hesitancy Among Young Adults in Nigeria",
+    "category": "public-health",
+    "background": "The increasing use of social media has transformed access to health information but has also facilitated the rapid spread of misinformation. Vaccine-related misinformation can influence risk perceptions, reduce confidence in vaccination programs, and contribute to vaccine hesitancy. Young adults constitute a highly connected population group that frequently relies on digital platforms for health information. In Nigeria, concerns regarding misinformation have emerged during vaccination campaigns targeting infectious diseases. Understanding how social media misinformation influences vaccine attitudes is important for developing effective communication strategies and strengthening public trust in immunization programs. This study examines the association between social media health misinformation exposure and vaccine hesitancy among young adults in Nigeria.",
+    "objectives": [
+      "Assess exposure to vaccine-related misinformation on social media.",
+      "Determine the prevalence of vaccine hesitancy among young adults.",
+      "Examine the relationship between misinformation exposure and vaccine hesitancy.",
+      "Evaluate trusted sources of health information among participants.",
+      "Identify predictors of vaccine hesitancy."
+    ],
+    "researchQuestions": [
+      "What is the level of exposure to vaccine misinformation among young adults?",
+      "What proportion of participants exhibit vaccine hesitancy?",
+      "How does misinformation exposure influence vaccine attitudes?",
+      "Which health information sources are most trusted?",
+      "What factors predict vaccine hesitancy?"
+    ],
+    "hypotheses": [
+      "There is no significant association between exposure to vaccine misinformation and vaccine hesitancy.",
+      "There is no significant relationship between trust in health authorities and vaccine acceptance."
+    ],
+    "methodology": "A cross-sectional online and facility-based survey will be conducted among young adults aged 18–35 years. Data will be collected using validated questionnaires and analyzed using descriptive statistics and multivariable logistic regression.",
+    "keywords": [
+      "Vaccine Hesitancy",
+      "Social Media",
+      "Health Misinformation",
+      "Young Adults",
+      "Health Promotion",
+      "Nigeria"
+    ],
+    "researchArea": "Health Promotion",
+    "sampleSuggestion": "600 young adults aged 18–35 years"
+  },
+  {
+    "title": "Prevalence of Anxiety and Depression Symptoms Among Healthcare Workers Following Infectious Disease Outbreak Responses in Nigeria",
+    "category": "public-health",
+    "background": "Healthcare workers involved in infectious disease outbreak responses often experience psychological stress resulting from increased workloads, occupational risks, and emotional demands. In Nigeria, repeated responses to outbreaks such as Lassa fever, cholera, and other emerging diseases have highlighted concerns regarding workforce mental wellbeing. Persistent anxiety and depression among healthcare workers can negatively affect service delivery, job satisfaction, and healthcare quality. Despite growing recognition of mental health challenges within the health workforce, evidence remains limited regarding post-outbreak psychological outcomes. This study seeks to assess anxiety and depression symptoms among healthcare workers involved in infectious disease outbreak responses in Nigeria.",
+    "objectives": [
+      "Determine the prevalence of anxiety symptoms among healthcare workers.",
+      "Assess the prevalence of depressive symptoms among participants.",
+      "Examine occupational factors associated with psychological distress.",
+      "Evaluate coping mechanisms used by healthcare workers.",
+      "Identify predictors of anxiety and depression symptoms."
+    ],
+    "researchQuestions": [
+      "What is the prevalence of anxiety symptoms among healthcare workers?",
+      "What is the prevalence of depressive symptoms?",
+      "Which occupational factors contribute to psychological distress?",
+      "What coping strategies are commonly used?",
+      "Which factors predict anxiety and depression?"
+    ],
+    "hypotheses": [
+      "There is no significant association between outbreak response involvement and anxiety symptoms.",
+      "There is no significant relationship between workload and depressive symptoms."
+    ],
+    "methodology": "A cross-sectional study will be conducted among healthcare workers involved in outbreak response activities. Data will be collected using validated mental health assessment tools and structured questionnaires. Regression analyses will identify factors associated with psychological outcomes.",
+    "keywords": [
+      "Mental Health",
+      "Healthcare Workers",
+      "Anxiety",
+      "Depression",
+      "Outbreak Response",
+      "Nigeria"
+    ],
+    "researchArea": "Mental Health",
+    "sampleSuggestion": "300 healthcare workers involved in outbreak response activities"
+  },
+  {
+    "title": "Assessment of Water, Sanitation and Hygiene Practices and Their Association With Diarrheal Diseases Among Under-Five Children in Rural Nigeria",
+    "category": "public-health",
+    "background": "Diarrheal diseases remain a major contributor to morbidity and mortality among under-five children in Nigeria. Poor water quality, inadequate sanitation infrastructure, and suboptimal hygiene practices increase the risk of diarrheal infections in vulnerable populations. Rural communities often face greater challenges related to access to safe drinking water and sanitation services. Understanding the relationship between household water, sanitation, and hygiene practices and childhood diarrheal diseases is essential for informing preventive interventions. This study seeks to evaluate water, sanitation, and hygiene practices and their association with diarrheal diseases among under-five children in rural Nigeria.",
+    "objectives": [
+      "Assess household water sources and sanitation facilities.",
+      "Determine the prevalence of diarrheal diseases among under-five children.",
+      "Evaluate hygiene practices among caregivers.",
+      "Examine associations between WASH indicators and diarrheal diseases.",
+      "Identify predictors of childhood diarrheal illness."
+    ],
+    "researchQuestions": [
+      "What water and sanitation facilities are available to households?",
+      "What is the prevalence of diarrheal diseases among under-five children?",
+      "What hygiene practices are adopted by caregivers?",
+      "How do WASH factors influence diarrheal disease occurrence?",
+      "Which factors predict diarrheal diseases among children?"
+    ],
+    "hypotheses": [
+      "There is no significant association between sanitation facilities and diarrheal disease occurrence.",
+      "There is no significant relationship between caregiver hygiene practices and childhood diarrhea."
+    ],
+    "methodology": "A community-based cross-sectional study will be conducted among households with under-five children. Structured questionnaires and observational checklists will be used for data collection. Logistic regression analyses will identify determinants of diarrheal diseases.",
+    "keywords": [
+      "WASH",
+      "Diarrheal Diseases",
+      "Child Health",
+      "Sanitation",
+      "Hygiene",
+      "Nigeria"
+    ],
+    "researchArea": "Child Health",
+    "sampleSuggestion": "350 caregivers of under-five children"
+  },
+  {
+    "title": "Utilization of Digital Health Applications for Chronic Disease Management Among Adults Living With Diabetes in Urban Nigeria",
+    "category": "public-health",
+    "background": "Digital health technologies are increasingly being adopted to support chronic disease management through remote monitoring, medication reminders, patient education, and self-management support. In Nigeria, smartphone penetration and internet access have expanded opportunities for digital health interventions. However, little is known about the extent of digital health application utilization among patients living with chronic diseases such as diabetes. Understanding patterns of use and barriers to adoption is important for maximizing the benefits of digital health innovations. This study seeks to evaluate utilization of digital health applications for diabetes management among adults in urban Nigeria.",
+    "objectives": [
+      "Assess awareness of digital health applications among diabetic patients.",
+      "Determine utilization rates of digital health tools.",
+      "Examine barriers to digital health adoption.",
+      "Evaluate the relationship between application use and self-management behaviors.",
+      "Identify predictors of digital health utilization."
+    ],
+    "researchQuestions": [
+      "What is the level of awareness of digital health applications?",
+      "What proportion of patients utilize digital health tools?",
+      "What barriers affect digital health adoption?",
+      "How does application use influence diabetes self-management?",
+      "What factors predict utilization of digital health applications?"
+    ],
+    "hypotheses": [
+      "There is no significant association between digital health application use and diabetes self-management.",
+      "There is no significant relationship between educational level and digital health adoption."
+    ],
+    "methodology": "A hospital-based cross-sectional study will be conducted among adults receiving diabetes care. Data will be collected using structured questionnaires and analyzed using descriptive and inferential statistics, including logistic regression models.",
+    "keywords": [
+      "Digital Health",
+      "Diabetes",
+      "Chronic Disease Management",
+      "Mobile Health",
+      "Health Technology",
+      "Nigeria"
+    ],
+    "researchArea": "Health Systems Strengthening",
+    "sampleSuggestion": "300 adults living with diabetes"
+  },
+  {
+    "title": "Geospatial Analysis of Malaria Hotspots and Healthcare Accessibility in High-Burden Local Government Areas of Nigeria",
+    "category": "public-health",
+    "background": "Malaria remains one of the leading causes of morbidity and mortality in Nigeria despite extensive control efforts. Identifying geographical patterns of disease burden and healthcare accessibility can support targeted intervention planning and efficient resource allocation. Advances in geographic information systems and spatial epidemiology provide opportunities to map malaria hotspots and assess disparities in healthcare access. However, limited geospatial studies have explored the interaction between malaria burden and healthcare accessibility at the local government level. This study seeks to conduct a geospatial analysis of malaria hotspots and healthcare accessibility in high-burden areas of Nigeria.",
+    "objectives": [
+      "Map the spatial distribution of malaria cases in selected local government areas.",
+      "Assess healthcare facility accessibility within malaria-endemic communities.",
+      "Identify geographical malaria hotspots.",
+      "Examine relationships between accessibility and malaria burden.",
+      "Provide evidence for targeted malaria control interventions."
+    ],
+    "researchQuestions": [
+      "What is the spatial distribution of malaria cases in the study areas?",
+      "How accessible are healthcare facilities to affected populations?",
+      "Where are the major malaria hotspots located?",
+      "What relationship exists between healthcare accessibility and malaria burden?",
+      "How can findings inform malaria control strategies?"
+    ],
+    "hypotheses": [
+      "There is no significant relationship between healthcare accessibility and malaria burden.",
+      "There is no significant spatial clustering of malaria cases in the study area."
+    ],
+    "methodology": "A retrospective ecological study using surveillance data, GIS datasets, and healthcare facility information will be conducted. Spatial analyses including hotspot detection and accessibility mapping will be performed using GIS software. Statistical analyses will assess associations between accessibility indicators and malaria burden.",
+    "keywords": [
+      "Malaria",
+      "GIS",
+      "Spatial Epidemiology",
+      "Healthcare Accessibility",
+      "Disease Mapping",
+      "Nigeria"
+    ],
+    "researchArea": "Epidemiology",
+    "sampleSuggestion": "Secondary data from malaria surveillance systems and healthcare facilities"
+  },
+  {
+    "title": "Barriers to Utilization of Adolescent-Friendly Sexual and Reproductive Health Services Among Secondary School Students in Nigeria",
+    "category": "public-health",
+    "background": "Adolescents face unique sexual and reproductive health challenges that require accessible, confidential, and youth-friendly healthcare services. Despite efforts to improve adolescent health outcomes in Nigeria, utilization of adolescent-friendly services remains low. Cultural norms, stigma, inadequate awareness, concerns about confidentiality, and limited service availability contribute to poor service uptake. Low utilization increases the risk of unintended pregnancies, sexually transmitted infections, and adverse reproductive health outcomes. Understanding barriers affecting adolescent access to sexual and reproductive health services is important for strengthening youth-centered interventions. This study seeks to investigate barriers to utilization of adolescent-friendly sexual and reproductive health services among secondary school students in Nigeria.",
+    "objectives": [
+      "Assess awareness of adolescent-friendly sexual and reproductive health services.",
+      "Determine utilization rates among secondary school students.",
+      "Identify barriers affecting service utilization.",
+      "Examine socio-demographic factors associated with service uptake.",
+      "Recommend strategies for improving access to adolescent-friendly services."
+    ],
+    "researchQuestions": [
+      "What is the level of awareness of adolescent-friendly health services?",
+      "What proportion of students utilize these services?",
+      "What barriers affect service utilization?",
+      "Which socio-demographic factors influence service uptake?",
+      "What interventions can improve utilization?"
+    ],
+    "hypotheses": [
+      "There is no significant association between awareness levels and service utilization.",
+      "There is no significant relationship between perceived stigma and service uptake."
+    ],
+    "methodology": "A school-based cross-sectional study will be conducted among secondary school students selected through multistage sampling. Data will be collected using anonymous self-administered questionnaires and analyzed using descriptive and inferential statistical methods.",
+    "keywords": [
+      "Adolescent Health",
+      "Reproductive Health",
+      "Health Services",
+      "Youth-Friendly Services",
+      "Secondary School Students",
+      "Nigeria"
+    ],
+    "researchArea": "Health Promotion",
+    "sampleSuggestion": "500 secondary school students aged 15–19 years"
+  },
+  {
+    "title": "Prevalence and Determinants of Self-Medication With Antibiotics Among University Students in South-West Nigeria",
+    "category": "public-health",
+    "background": "The inappropriate use of antibiotics has become a major public health concern globally due to its contribution to antimicrobial resistance. In Nigeria, self-medication with antibiotics remains widespread among young adults because of easy access to medications, inadequate regulation of pharmaceutical sales, perceived cost savings, and limited healthcare utilization. University students are particularly vulnerable due to academic pressures, health information obtained from non-professional sources, and reliance on peer recommendations. Persistent misuse of antibiotics contributes to treatment failures, increased healthcare costs, and the emergence of resistant pathogens. Despite ongoing antimicrobial stewardship efforts, evidence regarding the drivers of antibiotic self-medication among university students remains limited. Understanding the prevalence and determinants of this behavior is crucial for designing targeted educational and policy interventions aimed at promoting rational antibiotic use.",
+    "objectives": [
+      "Determine the prevalence of self-medication with antibiotics among university students.",
+      "Assess students' knowledge regarding appropriate antibiotic use.",
+      "Examine factors associated with antibiotic self-medication practices.",
+      "Evaluate common sources of antibiotics used without prescription.",
+      "Identify predictors of self-medication behavior among students."
+    ],
+    "researchQuestions": [
+      "What is the prevalence of antibiotic self-medication among university students?",
+      "What level of knowledge do students possess regarding antibiotic use?",
+      "Which factors influence self-medication practices?",
+      "What are the common sources of antibiotics used without prescription?",
+      "What factors predict self-medication behavior?"
+    ],
+    "hypotheses": [
+      "There is no significant association between antibiotic knowledge and self-medication practices.",
+      "There is no significant relationship between healthcare utilization and self-medication with antibiotics."
+    ],
+    "methodology": "A cross-sectional study will be conducted among undergraduate students selected through stratified random sampling. Data will be collected using validated self-administered questionnaires. Descriptive statistics will summarize prevalence and patterns of antibiotic use, while chi-square tests and logistic regression analyses will identify factors associated with self-medication practices.",
+    "keywords": [
+      "Antibiotics",
+      "Self-Medication",
+      "Antimicrobial Resistance",
+      "University Students",
+      "Drug Use",
+      "Nigeria"
+    ],
+    "researchArea": "Health Promotion",
+    "sampleSuggestion": "500 undergraduate students from public and private universities"
+  },
+  {
+    "title": "Utilization of Cervical Cancer Screening Services and Associated Factors Among Women of Reproductive Age in South-East Nigeria",
+    "category": "public-health",
+    "background": "Cervical cancer remains a leading cause of cancer-related morbidity and mortality among women in Nigeria despite being largely preventable through screening and early detection. Screening methods such as Pap smears and HPV testing can significantly reduce disease burden, yet utilization remains low in many communities. Factors such as limited awareness, cultural beliefs, financial barriers, poor access to services, and fear of diagnosis may contribute to low uptake. Understanding factors influencing screening utilization is essential for improving preventive healthcare interventions and reducing cervical cancer incidence. This study seeks to investigate cervical cancer screening utilization and its determinants among women of reproductive age in South-East Nigeria.",
+    "objectives": [
+      "Determine the prevalence of cervical cancer screening utilization.",
+      "Assess knowledge of cervical cancer and screening services.",
+      "Examine factors associated with screening uptake.",
+      "Evaluate barriers to cervical cancer screening utilization.",
+      "Identify predictors of screening participation."
+    ],
+    "researchQuestions": [
+      "What proportion of women have undergone cervical cancer screening?",
+      "What is the level of knowledge regarding cervical cancer prevention?",
+      "Which factors influence screening utilization?",
+      "What barriers hinder participation in screening programs?",
+      "Which factors predict screening uptake?"
+    ],
+    "hypotheses": [
+      "There is no significant association between knowledge of cervical cancer and screening utilization.",
+      "There is no significant relationship between healthcare access and cervical cancer screening uptake."
+    ],
+    "methodology": "A community-based cross-sectional study will be conducted among women aged 21–49 years. Participants will be selected through multistage sampling. Data will be collected using structured questionnaires and analyzed using descriptive statistics and logistic regression models.",
+    "keywords": [
+      "Cervical Cancer",
+      "Cancer Screening",
+      "Women's Health",
+      "Preventive Health",
+      "HPV",
+      "Nigeria"
+    ],
+    "researchArea": "Maternal Health",
+    "sampleSuggestion": "400 women of reproductive age"
+  },
+  {
+    "title": "Assessment of Household Food Insecurity and Nutritional Status Among Under-Five Children in Internally Displaced Persons Camps in Northern Nigeria",
+    "category": "public-health",
+    "background": "Food insecurity remains a major public health challenge among internally displaced populations in Nigeria, particularly in regions affected by conflict and insecurity. Children under five years are especially vulnerable to the consequences of inadequate nutrition, including stunting, wasting, micronutrient deficiencies, and increased susceptibility to infectious diseases. Despite humanitarian interventions, concerns persist regarding food availability, dietary diversity, and child nutritional outcomes within displaced communities. Understanding the relationship between household food insecurity and child nutritional status is essential for strengthening nutrition programs and improving health outcomes among vulnerable populations. This study seeks to assess food insecurity and nutritional status among under-five children residing in internally displaced persons camps in Northern Nigeria.",
+    "objectives": [
+      "Assess the prevalence of household food insecurity among displaced households.",
+      "Determine the nutritional status of under-five children.",
+      "Examine the relationship between food insecurity and nutritional outcomes.",
+      "Evaluate dietary diversity among households.",
+      "Identify predictors of childhood malnutrition."
+    ],
+    "researchQuestions": [
+      "What is the prevalence of household food insecurity?",
+      "What is the nutritional status of under-five children in the camps?",
+      "How does food insecurity affect child nutritional outcomes?",
+      "What is the level of dietary diversity among households?",
+      "Which factors predict malnutrition among children?"
+    ],
+    "hypotheses": [
+      "There is no significant association between household food insecurity and child nutritional status.",
+      "There is no significant relationship between dietary diversity and malnutrition among children."
+    ],
+    "methodology": "A cross-sectional study will be conducted among households residing in selected IDP camps. Anthropometric measurements and structured questionnaires will be used for data collection. Logistic regression analyses will identify determinants of malnutrition.",
+    "keywords": [
+      "Food Security",
+      "Nutrition",
+      "Child Health",
+      "IDP Camps",
+      "Malnutrition",
+      "Nigeria"
+    ],
+    "researchArea": "Child Health",
+    "sampleSuggestion": "300 caregivers and under-five children in selected IDP camps"
+  },
+  {
+    "title": "Community Awareness and Preparedness for Cholera Outbreak Prevention in Flood-Prone Areas of Coastal Nigeria",
+    "category": "public-health",
+    "background": "Cholera outbreaks continue to pose significant public health challenges in flood-prone communities across Nigeria. Seasonal flooding often contaminates water sources, disrupts sanitation infrastructure, and increases the risk of disease transmission. Community awareness and preparedness play critical roles in reducing outbreak vulnerability and improving response effectiveness. Despite recurring outbreaks, limited evidence exists regarding the level of preparedness among residents in high-risk areas. Understanding community knowledge, preventive practices, and emergency preparedness can inform targeted interventions and strengthen resilience against future outbreaks. This study seeks to assess awareness and preparedness for cholera prevention among residents of flood-prone communities in coastal Nigeria.",
+    "objectives": [
+      "Assess community knowledge regarding cholera transmission and prevention.",
+      "Determine levels of household preparedness for cholera outbreaks.",
+      "Examine preventive water and sanitation practices.",
+      "Evaluate sources of health information used by residents.",
+      "Identify factors associated with outbreak preparedness."
+    ],
+    "researchQuestions": [
+      "What is the level of cholera-related knowledge among residents?",
+      "How prepared are households for cholera outbreaks?",
+      "What preventive practices are commonly adopted?",
+      "Which information sources influence preparedness?",
+      "What factors predict outbreak preparedness?"
+    ],
+    "hypotheses": [
+      "There is no significant association between cholera knowledge and preparedness levels.",
+      "There is no significant relationship between access to health information and preventive practices."
+    ],
+    "methodology": "A community-based cross-sectional study will be conducted among households in flood-prone communities. Data will be collected using interviewer-administered questionnaires and observational checklists. Statistical analyses will include logistic regression modeling.",
+    "keywords": [
+      "Cholera",
+      "Flooding",
+      "Outbreak Preparedness",
+      "Environmental Health",
+      "Water Sanitation",
+      "Nigeria"
+    ],
     "researchArea": "Environmental Health",
-    "background": "Poor waste management contributes to disease transmission and environmental pollution.",
-    "objectives": [
-      "Assess waste disposal practices.",
-      "Examine health impacts.",
-      "Identify environmental risks.",
-      "Recommend interventions."
-    ],
-    "researchQuestions": [
-      "What disposal practices are common?",
-      "What health effects are associated?",
-      "What environmental risks exist?",
-      "How can waste management improve?"
-    ],
-    "methodology": "Mixed-methods study.",
-    "keywords": [
-      "environmental health",
-      "waste management",
-      "urban health",
-      "pollution",
-      "Nigeria"
-    ]
+    "sampleSuggestion": "350 household heads in coastal communities"
   },
   {
-    "title": "Assessment of Air Pollution Exposure and Respiratory Symptoms Among Commercial Motorcyclists in Abuja",
+    "title": "Determinants of Tuberculosis Treatment Adherence Among Patients Receiving Directly Observed Therapy in North-Central Nigeria",
     "category": "public-health",
+    "background": "Tuberculosis remains a major public health challenge in Nigeria, which ranks among countries with a high burden of the disease. Successful treatment depends heavily on adherence to prescribed therapy. Poor adherence increases the risk of treatment failure, disease transmission, drug resistance, and mortality. Several factors including socioeconomic constraints, stigma, medication side effects, healthcare accessibility, and social support may influence treatment adherence. Despite implementation of directly observed therapy programs, non-adherence continues to affect treatment outcomes. Understanding the determinants of adherence is critical for improving tuberculosis control efforts and achieving national elimination targets.",
+    "objectives": [
+      "Assess treatment adherence levels among tuberculosis patients.",
+      "Examine patient-related factors influencing adherence.",
+      "Evaluate healthcare system factors associated with treatment completion.",
+      "Assess the role of social support in treatment adherence.",
+      "Identify predictors of adherence to tuberculosis treatment."
+    ],
+    "researchQuestions": [
+      "What proportion of patients adhere to tuberculosis treatment?",
+      "Which patient characteristics influence adherence?",
+      "How do healthcare system factors affect treatment completion?",
+      "What role does social support play in adherence?",
+      "What factors predict treatment adherence?"
+    ],
+    "hypotheses": [
+      "There is no significant association between social support and tuberculosis treatment adherence.",
+      "There is no significant relationship between healthcare accessibility and treatment adherence."
+    ],
+    "methodology": "A facility-based analytical cross-sectional study will be conducted among tuberculosis patients enrolled in directly observed therapy programs. Data will be collected through questionnaires and treatment record reviews. Logistic regression will identify predictors of adherence.",
+    "keywords": [
+      "Tuberculosis",
+      "Treatment Adherence",
+      "DOTS",
+      "Infectious Diseases",
+      "Public Health",
+      "Nigeria"
+    ],
+    "researchArea": "Epidemiology",
+    "sampleSuggestion": "250 tuberculosis patients receiving treatment"
+  },
+  {
+    "title": "Patterns of Healthcare-Seeking Behavior for Childhood Febrile Illnesses Among Caregivers in Rural Communities of South-West Nigeria",
+    "category": "public-health",
+    "background": "Febrile illnesses remain among the most common reasons for healthcare utilization among children in Nigeria. Delayed or inappropriate healthcare-seeking behavior can contribute to poor health outcomes, increased morbidity, and preventable mortality. Caregivers often make decisions regarding treatment based on socioeconomic status, cultural beliefs, perceived severity of illness, accessibility of healthcare facilities, and previous experiences. Understanding patterns of healthcare-seeking behavior is essential for designing interventions that improve timely access to appropriate care. This study investigates healthcare-seeking behavior for childhood febrile illnesses among caregivers in rural South-West Nigeria.",
+    "objectives": [
+      "Assess healthcare-seeking practices among caregivers.",
+      "Determine the prevalence of delayed healthcare utilization.",
+      "Examine factors influencing treatment decisions.",
+      "Evaluate the role of traditional medicine in childhood illness management.",
+      "Identify predictors of timely healthcare-seeking behavior."
+    ],
+    "researchQuestions": [
+      "What healthcare options are commonly used for childhood febrile illnesses?",
+      "How prevalent is delayed healthcare-seeking behavior?",
+      "What factors influence treatment decisions?",
+      "What role does traditional medicine play in illness management?",
+      "Which factors predict timely healthcare utilization?"
+    ],
+    "hypotheses": [
+      "There is no significant association between caregiver education and healthcare-seeking behavior.",
+      "There is no significant relationship between healthcare accessibility and timely care-seeking."
+    ],
+    "methodology": "A community-based cross-sectional study will be conducted among caregivers of under-five children. Data will be collected using interviewer-administered questionnaires and analyzed using logistic regression techniques.",
+    "keywords": [
+      "Healthcare-Seeking Behavior",
+      "Child Health",
+      "Febrile Illness",
+      "Caregivers",
+      "Primary Healthcare",
+      "Nigeria"
+    ],
+    "researchArea": "Child Health",
+    "sampleSuggestion": "400 caregivers of under-five children"
+  },
+  {
+    "title": "Association Between Urban Green Space Availability and Self-Reported Mental Wellbeing Among Young Adults in Lagos Metropolis",
+    "category": "public-health",
+    "background": "Rapid urbanization has transformed the physical and social environment of major Nigerian cities, often reducing access to recreational and green spaces. Emerging evidence suggests that urban green spaces may promote mental wellbeing by reducing stress, encouraging physical activity, and enhancing social interaction. However, research examining these relationships within rapidly expanding African cities remains limited. Understanding how access to green spaces influences mental wellbeing among young adults can support urban planning and public health initiatives aimed at improving population health outcomes. This study explores the relationship between green space availability and mental wellbeing among young adults in Lagos.",
+    "objectives": [
+      "Assess access to urban green spaces among young adults.",
+      "Evaluate self-reported mental wellbeing levels.",
+      "Examine the relationship between green space availability and mental wellbeing.",
+      "Determine patterns of green space utilization.",
+      "Identify predictors of positive mental wellbeing."
+    ],
+    "researchQuestions": [
+      "What level of access do young adults have to green spaces?",
+      "What is the mental wellbeing status of participants?",
+      "How does green space availability influence wellbeing?",
+      "How frequently are green spaces utilized?",
+      "What factors predict mental wellbeing outcomes?"
+    ],
+    "hypotheses": [
+      "There is no significant association between green space availability and mental wellbeing.",
+      "There is no significant relationship between frequency of green space use and wellbeing."
+    ],
+    "methodology": "A cross-sectional survey will be conducted among young adults residing in Lagos. Data will be collected using validated mental wellbeing scales and geospatial measures of green space accessibility. Multivariable regression analyses will be performed.",
+    "keywords": [
+      "Mental Wellbeing",
+      "Urban Health",
+      "Green Spaces",
+      "Young Adults",
+      "Environmental Health",
+      "Nigeria"
+    ],
+    "researchArea": "Mental Health",
+    "sampleSuggestion": "450 young adults residing in Lagos Metropolis"
+  },
+  {
+    "title": "Knowledge and Uptake of Pre-Exposure Prophylaxis for HIV Prevention Among High-Risk Populations in Urban Nigeria",
+    "category": "public-health",
+    "background": "Pre-exposure prophylaxis has emerged as an effective biomedical intervention for preventing HIV infection among high-risk populations. Despite increasing availability of PrEP services in Nigeria, awareness and uptake remain suboptimal. Factors such as stigma, misinformation, limited access to services, and concerns regarding medication safety may influence utilization. Understanding levels of awareness and determinants of uptake is important for optimizing HIV prevention strategies and reducing new infections among vulnerable groups. This study seeks to assess knowledge and uptake of PrEP among high-risk populations in urban Nigeria.",
+    "objectives": [
+      "Assess awareness of PrEP among high-risk populations.",
+      "Determine the prevalence of PrEP uptake.",
+      "Examine factors associated with PrEP utilization.",
+      "Evaluate barriers to PrEP access and use.",
+      "Identify predictors of PrEP uptake."
+    ],
+    "researchQuestions": [
+      "What is the level of awareness of PrEP among participants?",
+      "What proportion of eligible individuals use PrEP?",
+      "Which factors influence PrEP uptake?",
+      "What barriers hinder utilization?",
+      "What factors predict PrEP use?"
+    ],
+    "hypotheses": [
+      "There is no significant association between PrEP awareness and uptake.",
+      "There is no significant relationship between stigma and PrEP utilization."
+    ],
+    "methodology": "A cross-sectional study will be conducted among individuals recruited through community-based organizations and healthcare facilities. Data will be collected using structured questionnaires and analyzed using logistic regression models.",
+    "keywords": [
+      "HIV Prevention",
+      "PrEP",
+      "Sexual Health",
+      "Public Health",
+      "High-Risk Populations",
+      "Nigeria"
+    ],
+    "researchArea": "Health Promotion",
+    "sampleSuggestion": "300 individuals from high-risk populations"
+  },
+  {
+    "title": "Impact of Community Health Worker Home Visits on Maternal and Newborn Health Service Utilization in Rural Northern Nigeria",
+    "category": "public-health",
+    "background": "Community health workers play a critical role in extending essential healthcare services to underserved populations. Home visit programs have been implemented in various settings to improve maternal and newborn health outcomes through health education, referral support, and linkage to healthcare facilities. However, evidence regarding the effectiveness of these interventions in rural Northern Nigeria remains limited. Evaluating the influence of home visits on healthcare utilization can provide valuable insights for strengthening community-based health programs and improving maternal and newborn outcomes.",
+    "objectives": [
+      "Assess exposure to community health worker home visits among mothers.",
+      "Determine utilization of maternal and newborn health services.",
+      "Examine the relationship between home visits and service utilization.",
+      "Evaluate mothers' perceptions of community health worker services.",
+      "Identify predictors of maternal and newborn health service utilization."
+    ],
+    "researchQuestions": [
+      "What proportion of mothers receive home visits from community health workers?",
+      "What is the level of maternal and newborn health service utilization?",
+      "How do home visits influence service utilization?",
+      "How do mothers perceive community health worker services?",
+      "Which factors predict healthcare utilization?"
+    ],
+    "hypotheses": [
+      "There is no significant association between home visits and maternal health service utilization.",
+      "There is no significant relationship between community health worker engagement and newborn care utilization."
+    ],
+    "methodology": "A comparative cross-sectional study will be conducted among mothers with infants younger than one year. Data will be collected through household surveys and analyzed using multivariable logistic regression.",
+    "keywords": [
+      "Community Health Workers",
+      "Maternal Health",
+      "Newborn Health",
+      "Primary Healthcare",
+      "Rural Health",
+      "Nigeria"
+    ],
+    "researchArea": "Maternal Health",
+    "sampleSuggestion": "350 mothers with infants under one year"
+  },
+  {
+    "title": "Determinants of Routine Health Check-Up Utilization Among Civil Servants in Federal Government Institutions in Nigeria",
+    "category": "public-health",
+    "background": "Routine health check-ups are essential for early detection and prevention of chronic diseases. However, preventive healthcare utilization remains relatively low among many adults in Nigeria despite increasing burdens of non-communicable diseases. Civil servants represent a population with relatively stable employment and access to healthcare services, making them an important group for evaluating preventive healthcare practices. Understanding determinants of routine health screening utilization can guide workplace health promotion initiatives and improve early disease detection. This study seeks to investigate factors influencing routine health check-up utilization among civil servants in Nigeria.",
+    "objectives": [
+      "Determine the prevalence of routine health check-up utilization.",
+      "Assess knowledge of preventive health services among civil servants.",
+      "Examine factors influencing participation in routine health screening.",
+      "Evaluate barriers to preventive healthcare utilization.",
+      "Identify predictors of routine health check-up attendance."
+    ],
+    "researchQuestions": [
+      "What proportion of civil servants undergo routine health check-ups?",
+      "What is the level of awareness regarding preventive healthcare services?",
+      "Which factors influence health screening participation?",
+      "What barriers hinder routine health check-up utilization?",
+      "What factors predict preventive healthcare utilization?"
+    ],
+    "hypotheses": [
+      "There is no significant association between health insurance coverage and routine health check-up utilization.",
+      "There is no significant relationship between preventive health knowledge and screening participation."
+    ],
+    "methodology": "A descriptive analytical cross-sectional study will be conducted among civil servants selected through stratified sampling. Data will be collected using structured questionnaires and analyzed using descriptive statistics and logistic regression techniques.",
+    "keywords": [
+      "Preventive Health",
+      "Health Screening",
+      "Non-Communicable Diseases",
+      "Civil Servants",
+      "Health Promotion",
+      "Nigeria"
+    ],
+    "researchArea": "Health Promotion",
+    "sampleSuggestion": "500 civil servants from federal government institutions"
+  },
+  {
+    "title": "Prevalence and Determinants of Sleep Quality Among Undergraduate Students in Public Universities in South-West Nigeria",
+    "category": "public-health",
+    "background": "Adequate sleep is essential for physical health, mental wellbeing, cognitive performance, and academic success. However, university students often experience poor sleep quality due to academic demands, excessive screen time, financial stress, irregular schedules, and lifestyle factors. Poor sleep has been linked to anxiety, depression, reduced concentration, impaired academic performance, and increased risk of chronic health conditions. Despite growing awareness of sleep as a public health issue, evidence on sleep quality and its determinants among Nigerian university students remains limited. Understanding factors associated with poor sleep can guide interventions aimed at improving student wellbeing and educational outcomes. This study seeks to assess the prevalence and determinants of poor sleep quality among undergraduate students in public universities in South-West Nigeria.",
+    "objectives": [
+      "Determine the prevalence of poor sleep quality among undergraduate students.",
+      "Assess lifestyle factors associated with sleep quality.",
+      "Examine the relationship between academic stress and sleep quality.",
+      "Evaluate the influence of screen time on sleep patterns.",
+      "Identify predictors of poor sleep quality among students."
+    ],
+    "researchQuestions": [
+      "What is the prevalence of poor sleep quality among undergraduate students?",
+      "Which lifestyle factors influence sleep quality?",
+      "How does academic stress affect sleep patterns?",
+      "What relationship exists between screen time and sleep quality?",
+      "Which factors predict poor sleep quality?"
+    ],
+    "hypotheses": [
+      "There is no significant association between academic stress and sleep quality.",
+      "There is no significant relationship between screen time and poor sleep quality."
+    ],
+    "methodology": "A cross-sectional study will be conducted among undergraduate students selected through stratified random sampling. Data will be collected using the Pittsburgh Sleep Quality Index and structured questionnaires. Descriptive statistics and multivariable logistic regression analyses will be used to identify determinants of poor sleep quality.",
+    "keywords": [
+      "Sleep Quality",
+      "Students",
+      "Mental Health",
+      "Academic Stress",
+      "Lifestyle Factors",
+      "Nigeria"
+    ],
+    "researchArea": "Mental Health",
+    "sampleSuggestion": "500 undergraduate students from public universities"
+  },
+  {
+    "title": "Factors Influencing Uptake of Malaria Preventive Treatment Among Pregnant Women Attending Antenatal Clinics in North-West Nigeria",
+    "category": "public-health",
+    "background": "Malaria in pregnancy remains a major contributor to maternal and neonatal morbidity in Nigeria. Intermittent preventive treatment during pregnancy is a key intervention recommended by the World Health Organization for reducing adverse pregnancy outcomes associated with malaria infection. Despite national efforts to improve coverage, uptake of preventive treatment remains suboptimal in many regions. Factors such as late antenatal booking, stock-outs, inadequate knowledge, healthcare worker practices, and accessibility challenges may influence utilization. Understanding barriers and facilitators of preventive treatment uptake is essential for strengthening maternal health programs and reducing malaria-related complications during pregnancy.",
+    "objectives": [
+      "Assess the level of uptake of intermittent preventive treatment among pregnant women.",
+      "Evaluate knowledge of malaria prevention during pregnancy.",
+      "Examine healthcare system factors influencing treatment uptake.",
+      "Determine barriers to preventive treatment utilization.",
+      "Identify predictors of optimal uptake of malaria preventive treatment."
+    ],
+    "researchQuestions": [
+      "What proportion of pregnant women receive recommended preventive treatment doses?",
+      "What is the level of knowledge regarding malaria prevention in pregnancy?",
+      "Which healthcare system factors influence treatment uptake?",
+      "What barriers affect utilization of preventive treatment?",
+      "What factors predict adequate uptake?"
+    ],
+    "hypotheses": [
+      "There is no significant association between antenatal attendance and preventive treatment uptake.",
+      "There is no significant relationship between malaria knowledge and treatment utilization."
+    ],
+    "methodology": "A facility-based analytical cross-sectional study will be conducted among pregnant women attending antenatal clinics. Data will be collected using structured questionnaires and antenatal records. Logistic regression analysis will identify predictors of treatment uptake.",
+    "keywords": [
+      "Malaria",
+      "Pregnancy",
+      "Maternal Health",
+      "Intermittent Preventive Treatment",
+      "Antenatal Care",
+      "Nigeria"
+    ],
+    "researchArea": "Maternal Health",
+    "sampleSuggestion": "350 pregnant women attending antenatal clinics"
+  },
+  {
+    "title": "Assessment of E-Waste Disposal Practices and Associated Health Risks Among Informal Electronic Waste Recyclers in Urban Nigeria",
+    "category": "public-health",
+    "background": "The rapid growth of electronic device consumption has resulted in increasing volumes of electronic waste across Nigeria. Informal recycling activities often involve unsafe dismantling and disposal practices that expose workers and surrounding communities to hazardous substances such as lead, mercury, and cadmium. These exposures may contribute to respiratory disorders, neurological effects, and other adverse health outcomes. Despite the growing environmental and health burden associated with electronic waste, evidence regarding disposal practices and occupational risks among informal recyclers remains limited. Understanding current practices and associated health risks is important for informing environmental health interventions and policy development.",
+    "objectives": [
+      "Assess e-waste handling and disposal practices among informal recyclers.",
+      "Determine awareness of health risks associated with e-waste exposure.",
+      "Evaluate the prevalence of self-reported health symptoms among recyclers.",
+      "Examine occupational factors associated with hazardous exposure.",
+      "Identify predictors of unsafe e-waste disposal practices."
+    ],
+    "researchQuestions": [
+      "What e-waste disposal practices are commonly used?",
+      "What is the level of awareness regarding e-waste health risks?",
+      "What health symptoms are reported by recyclers?",
+      "Which occupational factors increase exposure risk?",
+      "What factors predict unsafe disposal practices?"
+    ],
+    "hypotheses": [
+      "There is no significant association between awareness of health risks and disposal practices.",
+      "There is no significant relationship between duration of exposure and reported health symptoms."
+    ],
+    "methodology": "A cross-sectional occupational health study will be conducted among informal e-waste recyclers. Data will be collected through questionnaires, workplace observations, and exposure assessments. Statistical analyses will include logistic regression and correlation analyses.",
+    "keywords": [
+      "Electronic Waste",
+      "Environmental Health",
+      "Occupational Health",
+      "Recycling",
+      "Toxic Exposure",
+      "Nigeria"
+    ],
     "researchArea": "Environmental Health",
-    "background": "Occupational exposure to air pollution poses respiratory health risks.",
-    "objectives": [
-      "Assess exposure levels.",
-      "Measure respiratory symptoms.",
-      "Determine associations.",
-      "Recommend interventions."
-    ],
-    "researchQuestions": [
-      "What are exposure levels?",
-      "What respiratory symptoms are prevalent?",
-      "Is there an association?",
-      "What preventive measures are needed?"
-    ],
-    "methodology": "Cross-sectional occupational health study.",
-    "keywords": [
-      "air pollution",
-      "respiratory health",
-      "occupational health",
-      "environmental exposure",
-      "Nigeria"
-    ]
+    "sampleSuggestion": "250 informal electronic waste recyclers"
   },
   {
-    "title": "Factors Influencing COVID-19 Vaccine Acceptance Among Adults in Nigeria",
+    "title": "Knowledge, Attitudes and Utilization of Mental Health Services Among Adolescents in Senior Secondary Schools in Nigeria",
     "category": "public-health",
-    "researchArea": "Vaccination",
-    "background": "Vaccine hesitancy remains a challenge to immunization programs.",
+    "background": "Mental health disorders frequently emerge during adolescence and can significantly affect educational attainment, social relationships, and long-term wellbeing. However, utilization of mental health services remains low among adolescents in Nigeria due to stigma, poor awareness, cultural misconceptions, and limited service availability. Early intervention is essential for preventing progression of mental health conditions and improving health outcomes. Understanding adolescents' knowledge, attitudes, and utilization patterns is necessary for developing school-based mental health programs and policies that support early access to care.",
     "objectives": [
-      "Assess acceptance levels.",
-      "Identify determinants.",
-      "Evaluate information sources.",
-      "Recommend interventions."
+      "Assess adolescents' knowledge of mental health conditions.",
+      "Evaluate attitudes toward mental health services.",
+      "Determine utilization of mental health support services.",
+      "Examine barriers to mental healthcare access.",
+      "Identify factors influencing mental health service utilization."
     ],
     "researchQuestions": [
-      "What is the level of vaccine acceptance?",
-      "What factors influence hesitancy?",
-      "Which information sources are influential?",
-      "How can confidence be improved?"
+      "What is the level of mental health knowledge among adolescents?",
+      "What attitudes do students hold toward mental health services?",
+      "How many students have utilized mental health support services?",
+      "What barriers hinder access to mental healthcare?",
+      "Which factors influence utilization?"
     ],
-    "methodology": "Cross-sectional survey.",
+    "hypotheses": [
+      "There is no significant association between mental health knowledge and service utilization.",
+      "There is no significant relationship between stigma and mental healthcare utilization."
+    ],
+    "methodology": "A school-based cross-sectional study will be conducted among senior secondary school students. Data will be collected using validated questionnaires and analyzed using descriptive statistics and multivariable regression analyses.",
+    "keywords": [
+      "Mental Health",
+      "Adolescents",
+      "School Health",
+      "Mental Health Services",
+      "Stigma",
+      "Nigeria"
+    ],
+    "researchArea": "Mental Health",
+    "sampleSuggestion": "600 senior secondary school students"
+  },
+  {
+    "title": "Determinants of Exclusive Breastfeeding Practice Among Employed Mothers in Urban Communities of South-South Nigeria",
+    "category": "public-health",
+    "background": "Exclusive breastfeeding during the first six months of life provides significant health benefits for infants and mothers. Despite national campaigns promoting optimal infant feeding practices, exclusive breastfeeding rates remain below recommended levels in many parts of Nigeria. Employed mothers often face additional challenges related to workplace policies, maternity leave duration, childcare arrangements, and breastfeeding support. Understanding determinants of exclusive breastfeeding among working mothers is important for developing interventions that promote infant health and support maternal wellbeing.",
+    "objectives": [
+      "Determine the prevalence of exclusive breastfeeding among employed mothers.",
+      "Assess workplace factors influencing breastfeeding practices.",
+      "Examine maternal knowledge regarding exclusive breastfeeding.",
+      "Evaluate barriers to breastfeeding among employed women.",
+      "Identify predictors of exclusive breastfeeding practice."
+    ],
+    "researchQuestions": [
+      "What proportion of employed mothers practice exclusive breastfeeding?",
+      "How do workplace factors influence breastfeeding practices?",
+      "What is the level of knowledge regarding exclusive breastfeeding?",
+      "What barriers hinder breastfeeding among employed mothers?",
+      "Which factors predict exclusive breastfeeding?"
+    ],
+    "hypotheses": [
+      "There is no significant association between workplace support and exclusive breastfeeding.",
+      "There is no significant relationship between maternal knowledge and breastfeeding practice."
+    ],
+    "methodology": "A cross-sectional study will be conducted among employed mothers with infants aged six to twelve months. Data will be collected through structured questionnaires and analyzed using logistic regression analyses.",
+    "keywords": [
+      "Exclusive Breastfeeding",
+      "Maternal Health",
+      "Infant Nutrition",
+      "Working Mothers",
+      "Child Health",
+      "Nigeria"
+    ],
+    "researchArea": "Maternal Health",
+    "sampleSuggestion": "350 employed mothers with infants"
+  },
+  {
+    "title": "Evaluation of Community-Based Health Insurance Awareness and Willingness to Enroll Among Rural Households in North-Central Nigeria",
+    "category": "public-health",
+    "background": "Community-based health insurance schemes have been promoted as mechanisms for improving financial protection and healthcare access among underserved populations. However, enrollment remains relatively low in many rural Nigerian communities due to limited awareness, affordability concerns, and trust-related issues. Understanding awareness levels and factors influencing willingness to enroll is essential for improving scheme design and expanding coverage. This study seeks to evaluate awareness and willingness to participate in community-based health insurance programs among rural households in North-Central Nigeria.",
+    "objectives": [
+      "Assess awareness of community-based health insurance schemes.",
+      "Determine willingness to enroll among rural households.",
+      "Examine factors influencing enrollment intentions.",
+      "Identify barriers to participation in insurance programs.",
+      "Evaluate perceptions regarding scheme benefits."
+    ],
+    "researchQuestions": [
+      "What is the level of awareness of community-based health insurance?",
+      "What proportion of households are willing to enroll?",
+      "Which factors influence enrollment intentions?",
+      "What barriers hinder participation?",
+      "How do households perceive scheme benefits?"
+    ],
+    "hypotheses": [
+      "There is no significant association between awareness levels and willingness to enroll.",
+      "There is no significant relationship between household income and enrollment intention."
+    ],
+    "methodology": "A community-based cross-sectional survey will be conducted among rural households selected through multistage sampling. Data will be analyzed using descriptive statistics and logistic regression models.",
+    "keywords": [
+      "Health Insurance",
+      "Universal Health Coverage",
+      "Rural Health",
+      "Healthcare Financing",
+      "Health Systems",
+      "Nigeria"
+    ],
+    "researchArea": "Health Systems Strengthening",
+    "sampleSuggestion": "400 household heads in rural communities"
+  },
+  {
+    "title": "Spatial Distribution and Socioeconomic Determinants of Childhood Stunting Across Selected States in Northern Nigeria",
+    "category": "public-health",
+    "background": "Childhood stunting remains a major public health challenge in Nigeria, particularly in northern regions where poverty, food insecurity, inadequate healthcare access, and poor sanitation contribute to chronic undernutrition. Stunting has long-term consequences for cognitive development, educational attainment, and economic productivity. Understanding geographical variations and socioeconomic determinants of stunting is essential for designing targeted nutrition interventions and improving child health outcomes. This study aims to analyze the spatial distribution and determinants of childhood stunting across selected states in Northern Nigeria.",
+    "objectives": [
+      "Determine the prevalence of childhood stunting in selected states.",
+      "Map the spatial distribution of stunting prevalence.",
+      "Assess socioeconomic factors associated with stunting.",
+      "Examine household and environmental determinants of undernutrition.",
+      "Identify high-risk populations for targeted interventions."
+    ],
+    "researchQuestions": [
+      "What is the prevalence of childhood stunting in the study area?",
+      "How is stunting geographically distributed?",
+      "Which socioeconomic factors influence stunting?",
+      "What household characteristics contribute to undernutrition?",
+      "Which populations are most vulnerable to stunting?"
+    ],
+    "hypotheses": [
+      "There is no significant association between household socioeconomic status and childhood stunting.",
+      "There is no significant spatial clustering of childhood stunting cases."
+    ],
+    "methodology": "A secondary data analysis and geospatial epidemiological study will be conducted using demographic and health survey datasets. GIS mapping and regression analyses will be employed to identify determinants and spatial patterns.",
+    "keywords": [
+      "Stunting",
+      "Child Nutrition",
+      "GIS",
+      "Public Health",
+      "Food Security",
+      "Nigeria"
+    ],
+    "researchArea": "Child Health",
+    "sampleSuggestion": "National or state-level demographic survey datasets"
+  },
+  {
+    "title": "Predictors of COVID-19 Booster Vaccine Acceptance Among Healthcare Workers in Tertiary Hospitals in Nigeria",
+    "category": "public-health",
+    "background": "Healthcare workers play a critical role in promoting vaccine confidence and maintaining health system resilience during infectious disease outbreaks. Despite widespread availability of COVID-19 vaccines, acceptance of booster doses varies among healthcare professionals. Factors such as vaccine confidence, risk perception, previous vaccine experiences, and exposure to misinformation may influence booster uptake. Understanding determinants of booster vaccine acceptance among healthcare workers is important for strengthening immunization strategies and preparedness for future outbreaks.",
+    "objectives": [
+      "Assess acceptance of COVID-19 booster vaccines among healthcare workers.",
+      "Evaluate knowledge and perceptions regarding booster vaccination.",
+      "Examine factors associated with booster dose acceptance.",
+      "Assess the influence of risk perception on vaccine decisions.",
+      "Identify predictors of booster vaccine acceptance."
+    ],
+    "researchQuestions": [
+      "What proportion of healthcare workers accept COVID-19 booster vaccination?",
+      "What are healthcare workers' perceptions regarding booster vaccines?",
+      "Which factors influence acceptance of booster doses?",
+      "How does perceived risk affect vaccine decisions?",
+      "What factors predict booster vaccine acceptance?"
+    ],
+    "hypotheses": [
+      "There is no significant association between vaccine confidence and booster acceptance.",
+      "There is no significant relationship between perceived infection risk and booster uptake."
+    ],
+    "methodology": "A multicenter cross-sectional study will be conducted among healthcare workers in tertiary hospitals. Data will be collected using structured questionnaires and analyzed using logistic regression techniques.",
     "keywords": [
       "COVID-19",
-      "vaccination",
-      "vaccine hesitancy",
-      "public health",
+      "Booster Vaccine",
+      "Healthcare Workers",
+      "Vaccine Acceptance",
+      "Immunization",
       "Nigeria"
-    ]
+    ],
+    "researchArea": "Health Promotion",
+    "sampleSuggestion": "400 healthcare workers in tertiary hospitals"
   },
   {
-    "title": "Prevalence and Predictors of Burnout Among Registered Nurses in Teaching Hospitals in Nigeria",
-    "category": "nursing",
-    "researchArea": "Burnout",
-    "background": "Burnout among nurses affects wellbeing, retention, and quality of care.",
+    "title": "Assessment of Emergency Preparedness and Disaster Response Capacity Among Primary Healthcare Facilities in Flood-Affected Regions of Nigeria",
+    "category": "public-health",
+    "background": "Natural disasters such as flooding increasingly threaten public health systems in Nigeria by disrupting healthcare delivery, damaging infrastructure, and increasing disease risks. Primary healthcare facilities often serve as the first point of contact during emergencies, making preparedness essential for effective response. However, many facilities face challenges related to staffing, emergency supplies, training, and contingency planning. Evaluating preparedness levels can help identify gaps and strengthen health system resilience in disaster-prone areas.",
     "objectives": [
-      "Determine prevalence.",
-      "Identify predictors.",
-      "Assess impact on performance.",
-      "Recommend interventions."
+      "Assess emergency preparedness levels among primary healthcare facilities.",
+      "Evaluate availability of disaster response resources.",
+      "Examine healthcare worker training in emergency management.",
+      "Identify gaps in facility disaster preparedness plans.",
+      "Recommend strategies for strengthening emergency response capacity."
     ],
     "researchQuestions": [
-      "What is the prevalence of burnout?",
-      "What factors predict burnout?",
-      "How does burnout affect performance?",
-      "What interventions are effective?"
+      "What is the level of emergency preparedness among healthcare facilities?",
+      "What disaster response resources are available?",
+      "How prepared are healthcare workers for emergency response?",
+      "What gaps exist in disaster preparedness planning?",
+      "What interventions can strengthen preparedness?"
     ],
-    "methodology": "Cross-sectional survey.",
+    "hypotheses": [
+      "There is no significant association between staff training and emergency preparedness levels.",
+      "There is no significant relationship between resource availability and disaster response capacity."
+    ],
+    "methodology": "A facility-based cross-sectional assessment will be conducted using questionnaires, facility audits, and key informant interviews. Data will be analyzed using descriptive and inferential statistical methods.",
     "keywords": [
-      "burnout",
-      "nurses",
-      "occupational stress",
-      "job satisfaction",
+      "Disaster Preparedness",
+      "Emergency Response",
+      "Primary Healthcare",
+      "Flooding",
+      "Health Systems",
       "Nigeria"
-    ]
+    ],
+    "researchArea": "Health Systems Strengthening",
+    "sampleSuggestion": "150 primary healthcare facilities and healthcare workers"
   },
   {
-    "title": "Work-Related Stress and Coping Mechanisms Among Emergency Department Nurses",
-    "category": "nursing",
-    "researchArea": "Burnout",
-    "background": "Emergency nurses experience high levels of occupational stress.",
+    "title": "Association Between Physical Activity Levels and Risk Factors for Non-Communicable Diseases Among Civil Servants in Abuja",
+    "category": "public-health",
+    "background": "Non-communicable diseases are responsible for an increasing proportion of morbidity and mortality in Nigeria. Physical inactivity is a major modifiable risk factor associated with obesity, hypertension, diabetes, and cardiovascular disease. Civil servants often engage in sedentary work patterns that may increase their vulnerability to chronic diseases. Understanding the relationship between physical activity and non-communicable disease risk factors is important for designing workplace wellness programs and promoting healthier lifestyles. This study investigates physical activity levels and associated health risks among civil servants in Abuja.",
     "objectives": [
-      "Assess stress levels.",
-      "Identify stressors.",
-      "Evaluate coping mechanisms.",
-      "Recommend support strategies."
+      "Assess physical activity levels among civil servants.",
+      "Determine the prevalence of selected non-communicable disease risk factors.",
+      "Examine the association between physical activity and health outcomes.",
+      "Evaluate lifestyle behaviors related to disease risk.",
+      "Identify predictors of physical inactivity."
     ],
     "researchQuestions": [
-      "What is the level of stress?",
-      "What are the major stressors?",
-      "What coping strategies are used?",
-      "How can wellbeing be improved?"
+      "What are the physical activity levels among civil servants?",
+      "What is the prevalence of non-communicable disease risk factors?",
+      "How does physical activity influence health outcomes?",
+      "Which lifestyle behaviors contribute to disease risk?",
+      "What factors predict physical inactivity?"
     ],
-    "methodology": "Cross-sectional descriptive study.",
-    "keywords": ["stress", "burnout", "emergency nursing", "coping", "Nigeria"]
-  },
-  {
-    "title": "Knowledge and Compliance with Infection Prevention and Control Guidelines Among Nurses",
-    "category": "nursing",
-    "researchArea": "Infection Control",
-    "background": "Compliance with infection prevention measures is essential for patient safety.",
-    "objectives": [
-      "Assess knowledge.",
-      "Evaluate compliance.",
-      "Identify barriers.",
-      "Recommend improvements."
+    "hypotheses": [
+      "There is no significant association between physical activity levels and non-communicable disease risk factors.",
+      "There is no significant relationship between sedentary behavior and obesity prevalence."
     ],
-    "researchQuestions": [
-      "What is the knowledge level?",
-      "How compliant are nurses?",
-      "What barriers affect compliance?",
-      "How can compliance improve?"
-    ],
-    "methodology": "Cross-sectional survey and observation.",
+    "methodology": "A workplace-based cross-sectional study will be conducted among civil servants. Data will be collected using the International Physical Activity Questionnaire, anthropometric measurements, and blood pressure assessments. Regression analyses will be used to identify associations.",
     "keywords": [
-      "infection control",
-      "patient safety",
-      "nursing practice",
-      "healthcare-associated infections",
+      "Physical Activity",
+      "Non-Communicable Diseases",
+      "Obesity",
+      "Workplace Health",
+      "Civil Servants",
       "Nigeria"
-    ]
-  },
-  {
-    "title": "Hand Hygiene Practices and Associated Factors Among Nurses in Nigerian Hospitals",
-    "category": "nursing",
-    "researchArea": "Infection Control",
-    "background": "Hand hygiene remains a key strategy for infection prevention.",
-    "objectives": [
-      "Assess compliance.",
-      "Identify determinants.",
-      "Evaluate resource availability.",
-      "Recommend interventions."
     ],
-    "researchQuestions": [
-      "What is the compliance rate?",
-      "What factors influence compliance?",
-      "Are resources adequate?",
-      "How can compliance improve?"
-    ],
-    "methodology": "Observational cross-sectional study.",
-    "keywords": [
-      "hand hygiene",
-      "infection prevention",
-      "nurses",
-      "patient safety",
-      "Nigeria"
-    ]
-  },
-  {
-    "title": "Nurses’ Role in Promoting Antenatal Care Utilization Among Pregnant Women in Rural Nigeria",
-    "category": "nursing",
-    "researchArea": "Maternal Nursing",
-    "background": "Maternal nurses play an important role in encouraging antenatal care attendance.",
-    "objectives": [
-      "Assess nursing interventions.",
-      "Evaluate perceptions of nursing support.",
-      "Identify barriers.",
-      "Recommend improvements."
-    ],
-    "researchQuestions": [
-      "What nursing interventions are used?",
-      "How do women perceive nursing support?",
-      "What barriers exist?",
-      "How can utilization increase?"
-    ],
-    "methodology": "Mixed-methods study.",
-    "keywords": [
-      "maternal nursing",
-      "antenatal care",
-      "pregnancy",
-      "maternal health",
-      "Nigeria"
-    ]
-  },
-  {
-    "title": "Factors Influencing Quality of Intrapartum Nursing Care in Maternity Units",
-    "category": "nursing",
-    "researchArea": "Maternal Nursing",
-    "background": "Quality intrapartum nursing care contributes to safe childbirth outcomes.",
-    "objectives": [
-      "Assess care quality.",
-      "Identify influencing factors.",
-      "Evaluate patient satisfaction.",
-      "Recommend improvements."
-    ],
-    "researchQuestions": [
-      "What is the quality of care provided?",
-      "What factors influence care quality?",
-      "How satisfied are mothers?",
-      "How can services improve?"
-    ],
-    "methodology": "Facility-based descriptive study.",
-    "keywords": [
-      "maternal nursing",
-      "intrapartum care",
-      "maternity services",
-      "quality care",
-      "Nigeria"
-    ]
-  },
-  {
-    "title": "Assessment of Pediatric Nurses’ Knowledge and Management of Childhood Malnutrition",
-    "category": "nursing",
-    "researchArea": "Pediatric Nursing",
-    "background": "Pediatric nurses are central to identifying and managing childhood malnutrition.",
-    "objectives": [
-      "Assess knowledge.",
-      "Evaluate practices.",
-      "Identify training needs.",
-      "Recommend interventions."
-    ],
-    "researchQuestions": [
-      "What is the level of knowledge?",
-      "How is malnutrition managed?",
-      "What training gaps exist?",
-      "How can care improve?"
-    ],
-    "methodology": "Cross-sectional survey.",
-    "keywords": [
-      "pediatric nursing",
-      "malnutrition",
-      "child health",
-      "nutrition",
-      "Nigeria"
-    ]
-  },
-  {
-    "title": "Parental Satisfaction with Pediatric Nursing Care in Tertiary Hospitals",
-    "category": "nursing",
-    "researchArea": "Pediatric Nursing",
-    "background": "Parental satisfaction influences healthcare utilization and treatment adherence.",
-    "objectives": [
-      "Assess satisfaction levels.",
-      "Identify determinants.",
-      "Evaluate communication.",
-      "Recommend improvements."
-    ],
-    "researchQuestions": [
-      "What is the level of satisfaction?",
-      "What factors influence satisfaction?",
-      "How effective is communication?",
-      "How can family-centered care improve?"
-    ],
-    "methodology": "Cross-sectional hospital-based study.",
-    "keywords": [
-      "pediatric nursing",
-      "patient satisfaction",
-      "family-centered care",
-      "children",
-      "Nigeria"
-    ]
-  },
-  {
-    "title": "Mental Health Literacy Among Nurses in General Hospitals",
-    "category": "nursing",
-    "researchArea": "Mental Health Nursing",
-    "background": "Mental health literacy is essential for effective nursing practice.",
-    "objectives": [
-      "Assess literacy levels.",
-      "Identify influencing factors.",
-      "Evaluate attitudes.",
-      "Recommend education programs."
-    ],
-    "researchQuestions": [
-      "What is the level of literacy?",
-      "What factors influence literacy?",
-      "What attitudes exist?",
-      "How can literacy improve?"
-    ],
-    "methodology": "Cross-sectional survey.",
-    "keywords": [
-      "mental health nursing",
-      "literacy",
-      "attitudes",
-      "nurses",
-      "Nigeria"
-    ]
-  },
-  {
-    "title": "Attitudes and Preparedness of Nurses Toward Caring for Patients with Mental Health Disorders",
-    "category": "nursing",
-    "researchArea": "Mental Health Nursing",
-    "background": "Integration of mental health services requires adequately prepared nurses.",
-    "objectives": [
-      "Assess attitudes.",
-      "Evaluate preparedness.",
-      "Identify training needs.",
-      "Recommend capacity building."
-    ],
-    "researchQuestions": [
-      "What attitudes do nurses hold?",
-      "How prepared are nurses?",
-      "What training gaps exist?",
-      "How can preparedness improve?"
-    ],
-    "methodology": "Descriptive cross-sectional survey.",
-    "keywords": [
-      "mental health nursing",
-      "preparedness",
-      "attitudes",
-      "training",
-      "Nigeria"
-    ]
-  },
-  {
-    "title": "Knowledge and Competence of Nurses in the Management of Critically Ill Patients in Intensive Care Units",
-    "category": "nursing",
-    "researchArea": "Critical Care",
-    "background": "Critical care nursing requires specialized competencies to manage complex cases.",
-    "objectives": [
-      "Assess knowledge.",
-      "Evaluate competence.",
-      "Identify influencing factors.",
-      "Recommend training initiatives."
-    ],
-    "researchQuestions": [
-      "What is the level of knowledge?",
-      "How competent are ICU nurses?",
-      "What factors influence competence?",
-      "How can skills improve?"
-    ],
-    "methodology": "Cross-sectional competency assessment.",
-    "keywords": [
-      "critical care nursing",
-      "ICU",
-      "clinical competence",
-      "patient management",
-      "Nigeria"
-    ]
+    "researchArea": "Epidemiology",
+    "sampleSuggestion": "500 civil servants working in federal ministries and agencies"
   }
 ]
