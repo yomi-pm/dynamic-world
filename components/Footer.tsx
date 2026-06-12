@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Footer() {
   return (
@@ -8,7 +9,13 @@ export default function Footer() {
           {/* Brand */}
 
           <div>
-            <h3 className="text-2xl font-bold">Research Desk</h3>
+            <Image
+              src="/images/logo.png"
+              alt="Research Desk"
+              width={180}
+              height={40}
+              className="h-10 w-auto"
+            />
 
             <p className="mt-4 text-slate-600 leading-7">
               Research Resources. Expert Support.

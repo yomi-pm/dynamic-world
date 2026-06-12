@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import Container from "./Container";
+import Image from "next/image";
 
 export default function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -11,10 +12,15 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 bg-white/80 backdrop-blur border-b relative">
       <Container>
         <div className="h-20 flex items-center justify-between">
-          <Link href="/">
-            <h1 className="font-semibold text-xl tracking-tight">
-              Research Desk
-            </h1>
+          <Link href="/" className="flex items-center gap-3">
+            <Image
+              src="/images/logo.png"
+              alt="Research Desk"
+              width={180}
+              height={40}
+              priority
+              className="h-10 w-auto"
+            />
           </Link>
 
           {/* Desktop Nav */}
