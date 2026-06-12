@@ -27,8 +27,8 @@ export default function Navbar() {
           <nav className="hidden md:flex gap-8 text-sm">
             <Link href="/project-topics">Research Topics</Link>
             <Link href="/resources">Resources</Link>
-            <Link href="/learn">Learn</Link>
-            <Link href="/tools">Tools</Link>
+            {/* <Link href="/learn">Learn</Link>*/}
+            {/*<Link href="/tools">Tools</Link>*/}
             <Link href="/services">Services</Link>
             <Link href="/about">About Us</Link>
           </nav>
