@@ -38,6 +38,12 @@ export const metadata: Metadata = {
     template: "%s | Research Desk",
   },
 
+  icons: {
+    icon: "/icon.png",
+    shortcut: "/icon.png",
+    apple: "/icon.png",
+  },
+
   description:
     "Research Desk provides research resources, methodology guidance, data analysis support, bioinformatics services, academic writing assistance and publication support for students and researchers.",
 
