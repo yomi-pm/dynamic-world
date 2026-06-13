@@ -70,6 +70,8 @@ async function importTopics() {
       const doc = {
         _type: "projectTopic",
 
+        likeCount: 0,
+
         ...topic,
 
         slug: {
