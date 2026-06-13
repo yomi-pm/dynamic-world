@@ -68,7 +68,7 @@ export default function CTA() {
             </Link>
 
             <a
-              href="https://wa.me/234XXXXXXXXXX"
+              href="https://wa.me/23481377048810"
               target="_blank"
               rel="noopener noreferrer"
               className="

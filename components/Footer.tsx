@@ -13,11 +13,11 @@ export default function Footer() {
               src="/images/logo.png"
               alt="Research Desk"
               width={180}
-              height={40}
-              className="h-12 w-auto"
+              height={50}
+              className="h-25 w-auto"
             />
 
-            <p className="mt-4 text-slate-600 leading-7">
+            <p className="mt-1 text-slate-600 leading-7">
               Research Resources. Expert Support.
             </p>
 
@@ -66,7 +66,7 @@ export default function Footer() {
               <p>hello@researchdesk.ng</p>
 
               <a
-                href="https://wa.me/234XXXXXXXXXX"
+                href="https://wa.me/23481377048810"
                 target="_blank"
                 rel="noopener noreferrer"
               >
