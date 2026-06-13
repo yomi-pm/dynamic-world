@@ -92,5 +92,12 @@ export default defineType({
       title: "Suggested Sample",
       type: "string",
     }),
+
+    defineField({
+      name: "likeCount",
+      title: "Like Count",
+      type: "number",
+      initialValue: 0,
+    }),
   ],
 });

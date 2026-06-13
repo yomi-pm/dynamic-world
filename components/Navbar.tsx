@@ -59,13 +59,13 @@ export default function Navbar() {
               Resources
             </Link>
 
-            <Link href="/learn" onClick={() => setMobileMenuOpen(false)}>
+            {/*<Link href="/learn" onClick={() => setMobileMenuOpen(false)}>
               Learn
-            </Link>
+            </Link>*/}
 
-            <Link href="/tools" onClick={() => setMobileMenuOpen(false)}>
+            {/*<Link href="/tools" onClick={() => setMobileMenuOpen(false)}>
               Tools
-            </Link>
+            </Link>*/}
 
             <Link href="/services" onClick={() => setMobileMenuOpen(false)}>
               Services

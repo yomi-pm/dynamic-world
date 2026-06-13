@@ -1,5 +1,6 @@
 import { client } from "@/sanity/client";
 import TopicSection from "@/components/project-topics/TopicSection";
+import LikeButton from "@/components/project-topics/LikeButton";
 
 export async function generateMetadata({
   params,
@@ -46,6 +47,7 @@ export default async function TopicPage({
       _type=="projectTopic" &&
       slug.current==$slug
     ][0]{
+      _id,
       title,
       category,
       background,
@@ -54,7 +56,8 @@ export default async function TopicPage({
       methodology,
       keywords,
       researchArea,
-      sampleSuggestion
+      sampleSuggestion,
+      likeCount
     }
     `,
     { slug },
@@ -106,6 +109,10 @@ export default async function TopicPage({
       >
         {topic.title}
       </h1>
+
+      <div className="mt-6">
+        <LikeButton topicId={topic._id} initialLikes={topic.likeCount || 0} />
+      </div>
 
       {/* META INFO */}
 

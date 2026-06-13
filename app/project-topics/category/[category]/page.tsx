@@ -72,7 +72,8 @@ export default async function CategoryPage({
       title,
       category,
       background,
-      slug
+      slug,
+      likeCount
     }
     `,
     {

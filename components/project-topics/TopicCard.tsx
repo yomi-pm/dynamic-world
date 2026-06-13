@@ -61,6 +61,34 @@ export default function TopicCard({ topic }: any) {
           {topic.background}
         </p>
 
+        <div
+          className="
+  mt-5
+  flex
+  items-center
+  justify-between
+  "
+        >
+          <span
+            className="
+    text-sm
+    text-slate-500
+    "
+          >
+            👍 {topic.likeCount || 0} Likes
+          </span>
+
+          <span
+            className="
+    text-sm
+    font-medium
+    text-teal-700
+    "
+          >
+            View Topic →
+          </span>
+        </div>
+
         <div className="mt-6 text-sm font-medium text-teal-700">
           View Topic →
         </div>

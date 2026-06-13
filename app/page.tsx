@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Hero from "@/components/Hero";
 import TrustBar from "@/components/TrustBar";
 import ResourceCategories from "@/components/ResourceCategories";
+import TrendingTopics from "@/components/TrendingTopics";
 import FeaturedResources from "@/components/FeaturedResources";
 import FeaturedCaseStudy from "@/components/FeaturedCaseStudy";
 import HowItHelps from "@/components/HowItHelps";
@@ -14,6 +15,7 @@ export default function HomePage() {
       <Hero />
       <TrustBar />
       <FeaturedResources />
+      <TrendingTopics />
       <ResourceCategories />
       <HowItHelps />
       <FeaturedCaseStudy />
