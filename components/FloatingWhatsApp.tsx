@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function FloatingWhatsApp() {
   return (
     <Link
-      href="https://wa.me/23481377048810"
+      href="https://wa.me/2348137704810"
       target="_blank"
       aria-label="Chat on WhatsApp"
       className="

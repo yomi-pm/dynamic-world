@@ -66,7 +66,7 @@ export default function Footer() {
               <p>hello@researchdesk.ng</p>
 
               <a
-                href="https://wa.me/23481377048810"
+                href="https://wa.me/2348137704810"
                 target="_blank"
                 rel="noopener noreferrer"
               >
